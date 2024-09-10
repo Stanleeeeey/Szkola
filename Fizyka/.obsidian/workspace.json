@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka.md",
-                "mode": "preview",
+                "file": "Opis ruchu postępowego.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fizyka.md",
+                "file": "Opis ruchu postępowego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fizyka.md",
+                "file": "Opis ruchu postępowego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizyka.md"
+                "file": "Opis ruchu postępowego.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "0a88444a9fc6c3dd",
   "lastOpenFiles": [
+    "2024-09-10.md",
     "Opis ruchu postępowego.md",
+    "Untitled.canvas",
     "Fizyka.md"
   ]
 }

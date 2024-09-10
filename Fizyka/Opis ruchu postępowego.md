@@ -19,3 +19,12 @@ prędkość - przemieszczenie na czas
 
 $$
 V_{śr} = \frac{s}{t}$$
+
+## Ruch po okręgu
+
+$a_r$ - przyszpieszenie dośrodkowe
+$a_s$ - przyszpieszenie normalne (dla zmiennego)
+
+$$a_r = \frac{v^2}{r}$$
+
+

@@ -28,3 +28,7 @@ $a_s$ - przyszpieszenie normalne (dla zmiennego)
 $$a_r = \frac{v^2}{r}$$
 
 
+## Ruch jednostajny prostoliniowy
+$$s = vt$$
+innymi słowami
+$$x = x_0 + vt$$

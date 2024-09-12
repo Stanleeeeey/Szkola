@@ -32,3 +32,10 @@ $$a_r = \frac{v^2}{r}$$
 $$s = vt$$
 innymi słowami
 $$x = x_0 + vt$$
+
+## Ruch jednostajnie zmienny prostoliniowy
+$$v = v_0 + a\Delta t$$
+
+$$s = v_0t + \frac{1}{2}at^2$$
+
+$$x = x_0 +v_{0x}t + \frac{1}{2}a_xt^2$$

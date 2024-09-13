@@ -1,19 +1,37 @@
 {
   "main": {
-    "id": "8258322fbe4125a4",
+    "id": "f7b65c6c65a80613",
     "type": "split",
     "children": [
       {
-        "id": "317e0b3029da67fc",
+        "id": "d0c62d8e6a6815d7",
         "type": "tabs",
         "children": [
           {
-            "id": "0a88444a9fc6c3dd",
+            "id": "a96a49e9d2b48e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "Polski.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "26cfd9e1f57f4f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e98b2ea6420ccf63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Tadeusz Borowski - \"Proszę Państwa, do gazu!\".md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e33234781b73974f",
+    "id": "7f58f4f49395129d",
     "type": "split",
     "children": [
       {
-        "id": "41ec6228c06820e8",
+        "id": "d5f91fbfd56f4b46",
         "type": "tabs",
         "children": [
           {
-            "id": "3732a0079f540c9b",
+            "id": "009fc7a8526d1eb3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +61,7 @@
             }
           },
           {
-            "id": "e69d3b400235e063",
+            "id": "489cd3cf84b7b7b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +76,7 @@
             }
           },
           {
-            "id": "98224aee006c7bcb",
+            "id": "5dac185112531ba1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +90,20 @@
     "width": 300
   },
   "right": {
-    "id": "4e226c91a2f07895",
+    "id": "adf7c92bfd910242",
     "type": "split",
     "children": [
       {
-        "id": "4466dc56812d745d",
+        "id": "679fc014bc276590",
         "type": "tabs",
         "children": [
           {
-            "id": "732691c0ab67631f",
+            "id": "357bce4e0cf48b32",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "Polski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +115,19 @@
             }
           },
           {
-            "id": "2b6a322849ed34a7",
+            "id": "dfc3764e2e6b8ac6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "Polski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a89cf4ebba35a2e6",
+            "id": "fb0f9832aef83387",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +138,12 @@
             }
           },
           {
-            "id": "9e95710f19eb7fce",
+            "id": "a23a4ba3ef2090a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opis ruchu postępowego.md"
+                "file": "Polski.md"
               }
             }
           }
@@ -146,18 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a88444a9fc6c3dd",
+  "active": "a96a49e9d2b48e7e",
   "lastOpenFiles": [
-    "Polski/lektury/Tadeusz Borowski - \"Proszę Państwa, do gazu!\".md",
-    "Polski/Pojęcia kluczowe/Zlagrowanie.md",
-    "Polski/Pojęcia kluczowe/Pokolenie Kolumbów.md",
-    "Polski/Ćwiczenia z pisania rozprawki.md",
-    "Polski/lektury",
-    "Polski/Polski.md",
-    "Polski/Pojęcia kluczowe",
-    "Polski/Omówienia lektur.md",
-    "Polski",
-    "Fizyka.md",
-    "Opis ruchu postępowego.md"
+    "Ćwiczenia z pisania rozprawki.md",
+    "lektury/Tadeusz Borowski - \"Proszę Państwa, do gazu!\".md",
+    "Omówienia lektur.md",
+    "Pojęcia kluczowe/Zlagrowanie.md",
+    "lektury",
+    "Pojęcia kluczowe/Pokolenie Kolumbów.md",
+    "Kolumbów.md",
+    "Pojęcia kluczowe",
+    "Polski.md",
+    "Untitled 1.md"
   ]
 }

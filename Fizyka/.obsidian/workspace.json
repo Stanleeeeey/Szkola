@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opis ruchu postępowego.md",
+                "file": "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opis ruchu postępowego.md"
+                "file": "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "0a88444a9fc6c3dd",
   "lastOpenFiles": [
+    "IMG_E8793.jpg",
+    "Fizyka.md",
+    "dualna natura promieniowania i materi/IMG_E8792 1.jpg",
+    "dualna natura promieniowania i materi",
+    "IMG_E8792.jpg",
+    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
+    "IMG_8792 1.jpg",
+    "IMG_8792.jpg",
+    "Opis ruchu postępowego.md",
     "Polski/lektury/Tadeusz Borowski - \"Proszę Państwa, do gazu!\".md",
     "Polski/Pojęcia kluczowe/Zlagrowanie.md",
     "Polski/Pojęcia kluczowe/Pokolenie Kolumbów.md",
@@ -156,8 +165,6 @@
     "Polski/Polski.md",
     "Polski/Pojęcia kluczowe",
     "Polski/Omówienia lektur.md",
-    "Polski",
-    "Fizyka.md",
-    "Opis ruchu postępowego.md"
+    "Polski"
   ]
 }

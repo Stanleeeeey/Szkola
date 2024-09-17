@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ćwiczenia z pisania rozprawki.md",
+                "file": "lektury/Tadeusz Borowski.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ćwiczenia z pisania rozprawki.md",
+                "file": "lektury/Tadeusz Borowski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ćwiczenia z pisania rozprawki.md",
+                "file": "lektury/Tadeusz Borowski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ćwiczenia z pisania rozprawki.md"
+                "file": "lektury/Tadeusz Borowski.md"
               }
             }
           }
@@ -166,9 +166,9 @@
   },
   "active": "a96a49e9d2b48e7e",
   "lastOpenFiles": [
+    "Ćwiczenia z pisania rozprawki.md",
     "lektury/Tadeusz Borowski.md",
     "Polski.md",
-    "Ćwiczenia z pisania rozprawki.md",
     "Omówienia lektur.md",
     "Pojęcia kluczowe/Zlagrowanie.md",
     "lektury",

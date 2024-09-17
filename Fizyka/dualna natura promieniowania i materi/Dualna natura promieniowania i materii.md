@@ -35,3 +35,4 @@ $\lambda$ - długość
 $E_0/B_0$ - amplituda
 
 $$v = \lambda f$$
+$$T = 2\pi\sqrt{LC}$$

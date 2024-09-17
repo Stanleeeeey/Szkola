@@ -27,3 +27,27 @@ Oprawcy izolują się od ofiar, chociaż wiedzą, że to ich dzieło. Ich czysto
 
 **Pogoda** - gorąca, słoneczna. Natura w tym momencie jest sprzymierzeńcem oprawców. Przypomina piekło - gorąco.
 
+1. Zapoznaj się z poniższym fragmentem i wyjaśnij, o jakim mechanizmie - w odniesieniu do zachowań więźniów pracujących na rampie i w odniesieniu do zasad funkcjonowania obozu - mówi Henri?
+
+	Henri tłumaczy, że obóz został stworzony aby wydobyć z człowieka to co najgorsze, aby zwrócić ludzi przeciwko sobie, aby więzień był katem dla drugiego.  Tadek jeszcze nie uległ w pełni zlagrowaniu. 
+
+2. Ustal na czym polega uprzedmiotowienie człowieka w obozie?
+
+	 Miejsce ma selekcja, nadający się idą do pracy, reszta do gazu. Odbiera im się całość majątku, by służyły Rzeszy. Człowiek staję się numerem. Każda ciężarówka to kreska w zeszyciku, każda ciężarówka to parędziesiąt ludzi
+	
+3. zinterpretuj poniższy fragment. Zwróć uwagę na jego miejsce w utworze.
+
+	*"Mijamy odział SS idący z bronią maszynową na zmianę warty. Idą równo, człowiek przy człowieku, jedna masa, jedna wola
+	-Und morgen die ganze Welt ... (Więc dziś słyszą nas Niemcy, a jutro cały świat ...) - śpiewają na całe gardło.
+	-Rechs ran! Na prawo! - pada od czoła komanda. Usuwamy się z drogi"*
+	Fragment zamyka opowiadanie, esesmani są pewni siebie. Są jedną machiną bezmyślnie wypełniająca zadanie. 
+
+4. Ustal, jaką funkcje pełnią transporty w życiu obozu
+
+	Jako źródło zaopatrzenia, środek do dalszego przetrwania. Dostawa surowca
+
+5. Obozy zagłady określa się mianem fabryk śmierci. Na podstawie tekstu uzasadnij słuszność stwierdzenia
+
+	Masowa skala zagłady, zorganizowanie. Tory niczym taśma z towarem.
+
+6. Udowodnij, że Borowski w sowim opowiadaniu ukazał człowieka zlagrowanego

@@ -51,3 +51,6 @@ Oprawcy izolują się od ofiar, chociaż wiedzą, że to ich dzieło. Ich czysto
 	Masowa skala zagłady, zorganizowanie. Tory niczym taśma z towarem.
 
 6. Udowodnij, że Borowski w sowim opowiadaniu ukazał człowieka zlagrowanego
+	Tadek z opowiadania Borowskiego jest człowiekiem zlagrowanym, ponieważ jest zniewrażliwiony  na cierpienie innych, stara się jedynie przetrwać, przystosowując się do reguł panujących w obozie. Jego system wartości zostaję wypaczony, sam dziwi się swoim emocją.
+
+[[Wiesława Szymborska - "Jeszcze"]]

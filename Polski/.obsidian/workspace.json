@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a96a49e9d2b48e7e",
+            "id": "2b4a0e83cf21c5be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "26cfd9e1f57f4f5d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e98b2ea6420ccf63",
+            "id": "1157d5649dfdda36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Tadeusz Borowski.md",
-                "mode": "preview",
+                "file": "konteksty/Wiesława Szymborska - \"Jeszcze\".md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Tadeusz Borowski.md",
+                "file": "konteksty/Wiesława Szymborska - \"Jeszcze\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lektury/Tadeusz Borowski.md",
+                "file": "konteksty/Wiesława Szymborska - \"Jeszcze\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lektury/Tadeusz Borowski.md"
+                "file": "konteksty/Wiesława Szymborska - \"Jeszcze\".md"
               }
             }
           }
@@ -164,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a96a49e9d2b48e7e",
+  "active": "1157d5649dfdda36",
   "lastOpenFiles": [
-    "Ćwiczenia z pisania rozprawki.md",
     "lektury/Tadeusz Borowski.md",
+    "konteksty/Wiesława Szymborska - \"Jeszcze\".md",
+    "konteksty",
     "Polski.md",
+    "Ćwiczenia z pisania rozprawki.md",
     "Omówienia lektur.md",
     "Pojęcia kluczowe/Zlagrowanie.md",
     "lektury",

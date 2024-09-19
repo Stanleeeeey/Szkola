@@ -49,9 +49,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optyka geometryczna/całkowite wewnętrzne odbicie.md",
+                "file": "optyka geometryczna/optyka geometryczna.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "27d71eb884211db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optyka geometryczna/zwierciadła.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467bfafe00c8d46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optyka geometryczna/zwierciadła.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "290b45427ce384bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "optyka geometryczna/sketches/zwierciadło wklęsłe.md"
               }
             }
           },
@@ -61,12 +95,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "optyka geometryczna/odbicie.md"
+                "file": "optyka geometryczna/sketches/odbicie.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optyka geometryczna/całkowite wewnętrzne odbicie.md",
+                "file": "optyka geometryczna/zwierciadła.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optyka geometryczna/całkowite wewnętrzne odbicie.md",
+                "file": "optyka geometryczna/zwierciadła.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optyka geometryczna/całkowite wewnętrzne odbicie.md"
+                "file": "optyka geometryczna/zwierciadła.md"
               }
             }
           }
@@ -194,15 +228,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f1067f6c3926959",
+  "active": "467bfafe00c8d46f",
   "lastOpenFiles": [
-    "optyka geometryczna/optyka geometryczna.md",
-    "optyka geometryczna/kąt graniczny.md",
+    "optyka geometryczna/sketches/zwierciadło wypukłe.md",
+    "optyka geometryczna/zwierciadła.md",
+    "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
+    "optyka geometryczna/sketches/zwierciadło płaskie.md",
     "optyka geometryczna/całkowite wewnętrzne odbicie.md",
-    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
-    "optyka geometryczna/odbicie.md",
+    "optyka geometryczna/optyka geometryczna.md",
     "optyka geometryczna/zjawisko załamania światła.md",
-    "optyka geometryczna/rozchodzenie.md",
+    "optyka geometryczna/sketches/rozchodzenie.md",
+    "optyka geometryczna/sketches/odbicie.md",
+    "optyka geometryczna/sketches/kąt graniczny.md",
+    "optyka geometryczna/sketches",
+    "zwierciada.md",
+    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
     "Excalidraw/Drawing 2024-09-17 17.22.26.excalidraw.md",
     "Excalidraw",
     "optyka geometryczna/Untitled.canvas",

@@ -50,6 +50,24 @@ Czym w naszym życiu może być pamięć?
 
 **Każde z tych imion niesie jakiś ciężar. Jedzie tożsamość, której pozbawi się ludzi kiedy dojadą na miejsce.**
 
+Imiona bo utrata tożsamości.
+
 Ukrywali fakt Żydowskiego pochodzenia ze względu na dyskryminacje (*"Syn będzie Lech."*)
 
-Zmiana tożsamości jako sposób odcięcia się od dramatu
+Zmiana tożsamości jako sposób odcięcia się od dramatu. Samo imię mogło być źródłem cierpienia. 
+
+W wierszu przywoływane są doświadczenia, życia osób transportowanych na śmierć. Poza niszczeniem ludzi niszczona jest też wielowiekowa tradycja. 
+
+*"Chmura z ludźmi na krajem szła"* - chmura z komory. Tych ludzi nie miał kto opłakiwać. 
+
+**Obojętność największym problemem**
+
+*"Tak to, tak"* - jako onomatopeja.
+
+Ostatnia strofa: to się nie kończy, wciąż się powtarza. Szymborska zmienia pozytywne skojarzenie pociągu (*"Lokomotywa" Julian Tuwim*) w negatyw.
+
+*łomotanie ciszy w ciszę* - oksymoron. Po tych ludziach pozostała tylko cisza, nieznośna dla świadomych tego co się stało. Cisza ofiar łomoczę w ciszę resztę świata, samotność ofiar. 
+
+*"Jeszcze"* = Jeszcze słychać echo tragedii, ci ludzie którzy przeżyli cały czas to przeżywają  Jeszcze istnieją w naszej pamięci. 
+
+[[Auschwitz nie spadło z nieba]]

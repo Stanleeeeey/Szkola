@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optyka geometryczna/zwierciadła.md",
+                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dc5380630864aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optyka geometryczna/zwierciadła.md",
+                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optyka geometryczna/zwierciadła.md",
+                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optyka geometryczna/zwierciadła.md"
+                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md"
               }
             }
           }
@@ -228,15 +240,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "467bfafe00c8d46f",
+  "active": "3732a0079f540c9b",
   "lastOpenFiles": [
-    "optyka geometryczna/sketches/zwierciadło wypukłe.md",
+    "optyka geometryczna/zjawisko załamania światła.md",
+    "optyka geometryczna/optyka geometryczna.md",
+    "optyka geometryczna/całkowite wewnętrzne odbicie.md",
+    "optyka geometryczna/sketches/pryzmat.md",
+    "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
     "optyka geometryczna/zwierciadła.md",
+    "optyka geometryczna/sketches/zwierciadło wypukłe.md",
     "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
     "optyka geometryczna/sketches/zwierciadło płaskie.md",
-    "optyka geometryczna/całkowite wewnętrzne odbicie.md",
-    "optyka geometryczna/optyka geometryczna.md",
-    "optyka geometryczna/zjawisko załamania światła.md",
     "optyka geometryczna/sketches/rozchodzenie.md",
     "optyka geometryczna/sketches/odbicie.md",
     "optyka geometryczna/sketches/kąt graniczny.md",

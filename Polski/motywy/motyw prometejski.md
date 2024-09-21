@@ -1,0 +1,1 @@
+motyw poświecenia się jednostki dla większego dobra.

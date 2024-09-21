@@ -1,0 +1,1 @@
+los ludzki jest nieunikniony, niezalęznie od akcji jakich się podejmiemy. Motyw wywodzi się z antyku

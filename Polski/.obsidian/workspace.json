@@ -37,7 +37,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Biblia/Księga Rodzaju.md",
+                "file": "lektury/Mitologia/mit o Syzyfie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b6fc1013877f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b367969a882b48f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e14ab91642c152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia/mit o Edypie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215caa5f3285fcf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia/mit o Edypie.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,9 +198,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b4864334437fc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f17a5f5725e34da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a98d1d68314cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia/mit o Prometeuszu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14bc1d1aea2bf2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Mitologia/mit o Syzyfie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -218,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
+                "file": "lektury/Mitologia/mit o Edypie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
+                "file": "lektury/Mitologia/mit o Edypie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md"
+                "file": "lektury/Mitologia/mit o Edypie.md"
               }
             }
           }
@@ -279,38 +375,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2add030bcaa10c55",
+  "active": "215caa5f3285fcf1",
   "lastOpenFiles": [
-    "Środki.md",
-    "lektury/Biblia/Apokalipsa św. Jana.md",
-    "Środki literackie.md",
+    "lektury/Mitologia/mit o Narcyzie.md",
+    "lektury/Mitologia/mit o Prometeuszu.md",
+    "lektury/Mitologia/mit o Syzyfie.md",
+    "lektury/Mitologia/mit o Tezeuszu.md",
+    "motywy/motyw prometejski.md",
+    "motywy/motyw wanitatywny.md",
+    "motywy/motyw Fatum.md",
+    "lektury/Mitologia/mit o Edypie.md",
+    "lektury/Mitologia.md",
+    "konteksty/Tadeusz Różewicz - Hiob 1957.md",
+    "konteksty/Truman show.md",
+    "konteksty/Hendrick Goltzius - Quis evadet.md",
+    "konteksty/Auschwitz nie spadło z nieba.md",
+    "konteksty/Albert Camus - Mit Syzyfa.md",
     "lektury/Biblia/Księga Rodzaju.md",
-    "lektury/Biblia/Pieśń nad Pieśniami.md",
     "lektury/Biblia.md",
+    "Untitled",
+    "lektury/Mitologia",
+    "Środki literackie.md",
+    "lektury/Biblia/Apokalipsa św. Jana.md",
+    "Środki.md",
+    "lektury/Biblia/Pieśń nad Pieśniami.md",
     "lektury/Biblia/Księga Psalmów.md",
     "lektury/Tadeusz Borowski - Prosze panstwa do gazu.md",
     "lektury/Wieslawa Szymborska - Jeszcze.md",
     "obrazy",
     "lektury/Biblia/Księga Koheleta.md",
     "lektury/Biblia/Księga Hioba.md",
-    "konteksty/Tadeusz Różewicz - Hiob 1957.md",
-    "konteksty/Truman show.md",
-    "konteksty/Auschwitz nie spadło z nieba.md",
-    "konteksty/Hendrick Goltzius - Quis evadet.md",
     "obrazy/Pasted image 20240921120348.png",
-    "motywy/motyw wanitatywny.md",
     "motywy",
     "lektury/Biblia/Księ.md",
-    "Polski.md",
-    "Omówienia lektur.md",
-    "Ćwiczenia z pisania rozprawki.md",
-    "Pojęcia kluczowe/Zlagrowanie.md",
-    "Pojęcia kluczowe/Pokolenie Kolumbów.md",
     "lektury/Biblia",
     "konteksty",
     "lektury",
-    "Kolumbów.md",
-    "Pojęcia kluczowe",
-    "Untitled 1.md"
+    "Pojęcia kluczowe"
   ]
 }

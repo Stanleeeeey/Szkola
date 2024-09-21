@@ -27,3 +27,11 @@ cele
 - Dzieje apostolskie
 - Listy apostolskie
 - [[Apokalipsa św. Jana]]
+
+## Archetypy
+
+- Judasz - zdrajca
+- Kain - bratobójca
+- Maria - matka cierpiąca
+- Hiob - cierpiący bez winy
+- Józef - opiekun

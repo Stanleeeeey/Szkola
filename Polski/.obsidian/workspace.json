@@ -37,14 +37,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Wieslawa Szymborska - Jeszcze.md",
+                "file": "lektury/Biblia/Księga Rodzaju.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b947bc0d49e678df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c30a4fa05a0bf79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddb8f0c333cdce49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia/Księga Koheleta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e8f1b8573e1ec63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia/Księga Koheleta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94665cbae2c3154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59aba6a20fe3c71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f683b0c0809acfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bfaca7aa1ca285e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2add030bcaa10c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -110,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Wieslawa Szymborska - Jeszcze.md",
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lektury/Wieslawa Szymborska - Jeszcze.md",
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lektury/Wieslawa Szymborska - Jeszcze.md"
+                "file": "lektury/Biblia/Apokalipsa św. Jana.md"
               }
             }
           }
@@ -171,18 +279,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99ead8cad8be59cf",
+  "active": "2add030bcaa10c55",
   "lastOpenFiles": [
+    "Środki.md",
+    "lektury/Biblia/Apokalipsa św. Jana.md",
+    "Środki literackie.md",
+    "lektury/Biblia/Księga Rodzaju.md",
+    "lektury/Biblia/Pieśń nad Pieśniami.md",
+    "lektury/Biblia.md",
+    "lektury/Biblia/Księga Psalmów.md",
     "lektury/Tadeusz Borowski - Prosze panstwa do gazu.md",
-    "konteksty/Auschwitz nie spadło z nieba.md",
-    "Omówienia lektur.md",
-    "Polski.md",
     "lektury/Wieslawa Szymborska - Jeszcze.md",
+    "obrazy",
+    "lektury/Biblia/Księga Koheleta.md",
+    "lektury/Biblia/Księga Hioba.md",
+    "konteksty/Tadeusz Różewicz - Hiob 1957.md",
+    "konteksty/Truman show.md",
+    "konteksty/Auschwitz nie spadło z nieba.md",
+    "konteksty/Hendrick Goltzius - Quis evadet.md",
+    "obrazy/Pasted image 20240921120348.png",
+    "motywy/motyw wanitatywny.md",
+    "motywy",
+    "lektury/Biblia/Księ.md",
+    "Polski.md",
+    "Omówienia lektur.md",
     "Ćwiczenia z pisania rozprawki.md",
-    "konteksty",
     "Pojęcia kluczowe/Zlagrowanie.md",
-    "lektury",
     "Pojęcia kluczowe/Pokolenie Kolumbów.md",
+    "lektury/Biblia",
+    "konteksty",
+    "lektury",
     "Kolumbów.md",
     "Pojęcia kluczowe",
     "Untitled 1.md"

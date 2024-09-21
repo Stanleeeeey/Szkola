@@ -1,4 +1,4 @@
-
+#współczesność #kontekst 
 Przemówienie z okazji jubileuszu wyzwolenia obozu.
 
 Nie bądź obojętny, bo to się powtórzy.

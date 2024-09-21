@@ -1,0 +1,29 @@
+#antyk #lektura 
+
+zbiór ksiąg, święte dla judaistów i chrześcijan
+
+*testament* -przymierze
+
+- dzieli się na stary/nowy testament
+- stary testament - 46 (w tym 39 herbajskich)
+- nowy testament - 4 księgi
+
+Biblia -> testamenty -> księgi -> rozdziały -> wersety
+
+cele
+- dydaktyczny
+- historyczny
+- proroczy
+
+## Stary Testament
+- [[Księga Rodzaju]]
+- [[Księga Hioba]]
+- [[Księga Psalmów]] 
+- [Księga Koheleta]]
+-  [[Pieśń nad Pieśniami]]
+
+## Nowy testament
+- Ewangelie
+- Dzieje apostolskie
+- Listy apostolskie
+- [[Apokalipsa św. Jana]]

@@ -1,3 +1,4 @@
+#współczesność #lektura 
 ### Proszę Państwa, do gazu
 
 **Tadeusz Borowski** - przedstawiciel pokolenia Kolumbów ([[Pokolenie Kolumbów]]). Student polonistyki w Warszawie, dobrze zapowiadający się poeta. W czasie okupacji pracuję przy getcie, czasami pomaga uciekającym. Aresztowany podczas poszukiwania swojej zaginionej ukochanej. 
@@ -52,5 +53,7 @@ Oprawcy izolują się od ofiar, chociaż wiedzą, że to ich dzieło. Ich czysto
 
 6. Udowodnij, że Borowski w sowim opowiadaniu ukazał człowieka zlagrowanego
 	Tadek z opowiadania Borowskiego jest człowiekiem zlagrowanym, ponieważ jest zniewrażliwiony  na cierpienie innych, stara się jedynie przetrwać, przystosowując się do reguł panujących w obozie. Jego system wartości zostaję wypaczony, sam dziwi się swoim emocją.
+
+## konteksty
 
 [[Wieslawa Szymborska - Jeszcze]]

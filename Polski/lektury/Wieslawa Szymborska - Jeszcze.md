@@ -1,4 +1,4 @@
-
+#współczesność #lektura 
 *"W zaplombowanych wagonach
 jadą krajem imiona,
 a dokąd tak jechać będą,  
@@ -70,4 +70,5 @@ Ostatnia strofa: to się nie kończy, wciąż się powtarza. Szymborska zmienia 
 
 *"Jeszcze"* = Jeszcze słychać echo tragedii, ci ludzie którzy przeżyli cały czas to przeżywają  Jeszcze istnieją w naszej pamięci. 
 
+## konteksty:
 [[Auschwitz nie spadło z nieba]]

@@ -1,3 +1,4 @@
 
-1. [[Tadeusz Borowski - Prosze panstwa do gazu]]
-2. [[Wieslawa Szymborska - Jeszcze]] (utwór wybrany)
+1. [[Biblia]]
+2. [[Tadeusz Borowski - Prosze panstwa do gazu]]
+3. [[Wieslawa Szymborska - Jeszcze]] (utwór wybrany)

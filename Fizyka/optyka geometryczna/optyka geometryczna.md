@@ -1,3 +1,5 @@
 [[zjawisko załamania światła]]
 [[całkowite wewnętrzne odbicie]]
 [[zwierciadła]]
+[[Odchylenie promienia świetlnego w pryzmacie]]
+[[soczewki]]

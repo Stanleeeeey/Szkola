@@ -4,251 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c62d8e6a6815d7",
+        "id": "21fa4d66e9c44761",
         "type": "tabs",
         "children": [
           {
-            "id": "2b4a0e83cf21c5be",
+            "id": "e9c8fc4b1658b651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Tadeusz Borowski - Prosze panstwa do gazu.md",
+                "file": "Omówienia lektur.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1157d5649dfdda36",
+            "id": "623a225ecdc1d0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Wieslawa Szymborska - Jeszcze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ead8cad8be59cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia/mit o Syzyfie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81b6fc1013877f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b367969a882b48f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84e14ab91642c152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia/mit o Edypie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215caa5f3285fcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia/mit o Edypie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b947bc0d49e678df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c30a4fa05a0bf79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddb8f0c333cdce49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia/Księga Koheleta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e8f1b8573e1ec63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia/Księga Koheleta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94665cbae2c3154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59aba6a20fe3c71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f683b0c0809acfc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bfaca7aa1ca285e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2add030bcaa10c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Biblia/Apokalipsa św. Jana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4864334437fc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f17a5f5725e34da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a98d1d68314cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia/mit o Prometeuszu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14bc1d1aea2bf2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lektury/Mitologia/mit o Syzyfie.md",
-                "mode": "source",
+                "file": "Środki literackie.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Mitologia/mit o Edypie.md",
+                "file": "Środki literackie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lektury/Mitologia/mit o Edypie.md",
+                "file": "Środki literackie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lektury/Mitologia/mit o Edypie.md"
+                "file": "Środki literackie.md"
               }
             }
           }
@@ -375,39 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215caa5f3285fcf1",
+  "active": "623a225ecdc1d0b4",
   "lastOpenFiles": [
-    "lektury/Mitologia/mit o Narcyzie.md",
-    "lektury/Mitologia/mit o Prometeuszu.md",
+    "lektury/Horacy - Exegi monumentum.md",
+    "Środki literackie.md",
+    "Omówienia lektur.md",
+    "lektury/Homer Iliada - fragmenty.md",
+    "lektury/Sofokles - Antygona.md",
+    "lektury/Homer - Iliada fragmenty",
     "lektury/Mitologia/mit o Syzyfie.md",
+    "lektury/Mitologia/mit o Prometeuszu.md",
+    "lektury/Mitologia.md",
+    "lektury/Biblia/Apokalipsa św. Jana.md",
+    "lektury/Biblia.md",
+    "lektury/Biblia/Księga Koheleta.md",
+    "lektury/Mitologia/mit o Edypie.md",
+    "lektury/Mitologia/mit o Narcyzie.md",
     "lektury/Mitologia/mit o Tezeuszu.md",
     "motywy/motyw prometejski.md",
     "motywy/motyw wanitatywny.md",
     "motywy/motyw Fatum.md",
-    "lektury/Mitologia/mit o Edypie.md",
-    "lektury/Mitologia.md",
     "konteksty/Tadeusz Różewicz - Hiob 1957.md",
     "konteksty/Truman show.md",
     "konteksty/Hendrick Goltzius - Quis evadet.md",
     "konteksty/Auschwitz nie spadło z nieba.md",
     "konteksty/Albert Camus - Mit Syzyfa.md",
     "lektury/Biblia/Księga Rodzaju.md",
-    "lektury/Biblia.md",
     "Untitled",
     "lektury/Mitologia",
-    "Środki literackie.md",
-    "lektury/Biblia/Apokalipsa św. Jana.md",
     "Środki.md",
     "lektury/Biblia/Pieśń nad Pieśniami.md",
     "lektury/Biblia/Księga Psalmów.md",
-    "lektury/Tadeusz Borowski - Prosze panstwa do gazu.md",
-    "lektury/Wieslawa Szymborska - Jeszcze.md",
     "obrazy",
-    "lektury/Biblia/Księga Koheleta.md",
-    "lektury/Biblia/Księga Hioba.md",
     "obrazy/Pasted image 20240921120348.png",
     "motywy",
-    "lektury/Biblia/Księ.md",
     "lektury/Biblia",
     "konteksty",
     "lektury",

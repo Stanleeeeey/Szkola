@@ -22,3 +22,7 @@
 
 ^1e0123
 
+## Przerzutnia
+
+^f6fa11
+

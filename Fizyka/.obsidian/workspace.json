@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optyka geometryczna/soczewki.md",
+                "file": "lupa i oko. Wady wzroku.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optyka geometryczna/soczewki.md",
+                "file": "lupa i oko. Wady wzroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optyka geometryczna/soczewki.md",
+                "file": "lupa i oko. Wady wzroku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optyka geometryczna/soczewki.md"
+                "file": "lupa i oko. Wady wzroku.md"
               }
             }
           }
@@ -266,10 +266,11 @@
   },
   "active": "8fe1ee220e6fad04",
   "lastOpenFiles": [
-    "optyka geometryczna/sketches/Soczewka.md",
-    "optyka geometryczna/soczewki.md",
-    "optyka geometryczna/sketches/Untitled.md",
     "optyka geometryczna/optyka geometryczna.md",
+    "lupa i oko. Wady wzroku.md",
+    "optyka geometryczna/soczewki.md",
+    "optyka geometryczna/sketches/Soczewka.md",
+    "optyka geometryczna/sketches/Untitled.md",
     "optyka geometryczna/zjawisko załamania światła.md",
     "optyka geometryczna/całkowite wewnętrzne odbicie.md",
     "optyka geometryczna/sketches/pryzmat.md",
@@ -304,7 +305,6 @@
     "Polski/Pojęcia kluczowe/Pokolenie Kolumbów.md",
     "Polski/Ćwiczenia z pisania rozprawki.md",
     "Polski/lektury",
-    "Polski/Polski.md",
     "Polski/Pojęcia kluczowe",
     "Polski"
   ]

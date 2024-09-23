@@ -3,3 +3,4 @@
 [[zwierciadła]]
 [[Odchylenie promienia świetlnego w pryzmacie]]
 [[soczewki]]
+[[lupa i oko. Wady wzroku]]

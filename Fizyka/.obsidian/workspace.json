@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
+                "file": "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "934bc5c8588cbd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
+                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
+                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md"
+                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md"
               }
             }
           }
@@ -288,15 +300,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96e4480c17324952",
+  "active": "3732a0079f540c9b",
   "lastOpenFiles": [
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
+    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
     "siła jako przyczyna zmian ruchu",
     "sia jako przyczyna zmian ruchu.md",
     "Fizyka.md",
     "optyka geometryczna/optyka geometryczna.md",
-    "lupa i oko. Wady wzroku.md",
+    "optyka geometryczna/lupa i oko. Wady wzroku.md",
     "optyka geometryczna/soczewki.md",
     "optyka geometryczna/sketches/Soczewka.md",
     "optyka geometryczna/sketches/Untitled.md",
@@ -328,7 +341,6 @@
     "IMG_8792 1.jpg",
     "IMG_8792.jpg",
     "opis ruchu postpowego/Opis ruchu postępowego.md",
-    "Polski/lektury/Tadeusz Borowski - \"Proszę Państwa, do gazu!\".md",
     "Polski/lektury",
     "Polski/Pojęcia kluczowe",
     "Polski"

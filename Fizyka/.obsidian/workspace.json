@@ -4,119 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "317e0b3029da67fc",
+        "id": "75ecbcd2a1ec7c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a88444a9fc6c3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/zjawisko załamania światła.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5a1bdb150484610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/optyka geometryczna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f46179db880e3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/całkowite wewnętrzne odbicie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1067f6c3926959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/optyka geometryczna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27d71eb884211db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/zwierciadła.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "467bfafe00c8d46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dc5380630864aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/optyka geometryczna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab4e90ca763ac71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optyka geometryczna/soczewki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe1ee220e6fad04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f46369a14247f81",
+            "id": "a0236849d0083ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,51 +20,19 @@
             }
           },
           {
-            "id": "96e4480c17324952",
+            "id": "51ad3115f599d4c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
+                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "934bc5c8588cbd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "290b45427ce384bd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "optyka geometryczna/sketches/zwierciadło wklęsłe.md"
-              }
-            }
-          },
-          {
-            "id": "5cec3b1f51f3c608",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "optyka geometryczna/sketches/odbicie.md"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
+                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
+                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md"
+                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md"
               }
             }
           }
@@ -303,26 +163,28 @@
   "active": "3732a0079f540c9b",
   "lastOpenFiles": [
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
-    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
+    "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
     "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
-    "siła jako przyczyna zmian ruchu",
-    "sia jako przyczyna zmian ruchu.md",
+    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "Fizyka.md",
-    "optyka geometryczna/optyka geometryczna.md",
-    "optyka geometryczna/lupa i oko. Wady wzroku.md",
+    "siła jako przyczyna zmian ruchu/Untitled.md",
+    "optyka geometryczna/sketches/odbicie.md",
+    "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
     "optyka geometryczna/soczewki.md",
-    "optyka geometryczna/sketches/Soczewka.md",
-    "optyka geometryczna/sketches/Untitled.md",
-    "optyka geometryczna/zjawisko załamania światła.md",
-    "optyka geometryczna/całkowite wewnętrzne odbicie.md",
-    "optyka geometryczna/sketches/pryzmat.md",
+    "optyka geometryczna/optyka geometryczna.md",
     "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
     "optyka geometryczna/zwierciadła.md",
+    "optyka geometryczna/całkowite wewnętrzne odbicie.md",
+    "optyka geometryczna/zjawisko załamania światła.md",
+    "siła jako przyczyna zmian ruchu",
+    "sia jako przyczyna zmian ruchu.md",
+    "optyka geometryczna/lupa i oko. Wady wzroku.md",
+    "optyka geometryczna/sketches/Soczewka.md",
+    "optyka geometryczna/sketches/Untitled.md",
+    "optyka geometryczna/sketches/pryzmat.md",
     "optyka geometryczna/sketches/zwierciadło wypukłe.md",
-    "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
     "optyka geometryczna/sketches/zwierciadło płaskie.md",
     "optyka geometryczna/sketches/rozchodzenie.md",
-    "optyka geometryczna/sketches/odbicie.md",
     "optyka geometryczna/sketches/kąt graniczny.md",
     "optyka geometryczna/sketches",
     "zwierciada.md",
@@ -332,7 +194,6 @@
     "optyka geometryczna/Untitled.canvas",
     "optyka geometryczna",
     "Untitled.canvas",
-    "2024-09-17.md",
     "opis ruchu postpowego",
     "dualna natura promieniowania i materi/IMG_E8793.jpg",
     "dualna natura promieniowania i materi/IMG_E8792 1.jpg",
@@ -340,7 +201,6 @@
     "IMG_E8792.jpg",
     "IMG_8792 1.jpg",
     "IMG_8792.jpg",
-    "opis ruchu postpowego/Opis ruchu postępowego.md",
     "Polski/lektury",
     "Polski/Pojęcia kluczowe",
     "Polski"

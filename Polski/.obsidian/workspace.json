@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Środki literackie.md",
-                "mode": "preview",
+                "file": "lekcje/Powtórzenie wiadomości mitologia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Środki literackie.md",
+                "file": "lekcje/Powtórzenie wiadomości mitologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Środki literackie.md",
+                "file": "lekcje/Powtórzenie wiadomości mitologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Środki literackie.md"
+                "file": "lekcje/Powtórzenie wiadomości mitologia.md"
               }
             }
           }
@@ -161,21 +161,26 @@
   },
   "active": "623a225ecdc1d0b4",
   "lastOpenFiles": [
-    "lektury/Horacy - Exegi monumentum.md",
-    "Środki literackie.md",
-    "Omówienia lektur.md",
+    "lektury/Mitologia/mit od Dedalu i Ikarze.md",
+    "lektury/Mitologia/mit o Edypie.md",
+    "lekcje/Powtórzenie wiadomości mitologia.md",
+    "konteksty/Wisława Szymborska - Nagrobek.md",
     "lektury/Homer Iliada - fragmenty.md",
+    "lektury/Mitologia/mit o Syzyfie.md",
+    "lektury/Mitologia/mit o Tezeuszu.md",
+    "lektury/Mitologia/mit o Prometeuszu.md",
+    "Polski.md",
+    "lekcje",
+    "Środki literackie.md",
+    "lektury/Horacy - Exegi monumentum.md",
+    "Omówienia lektur.md",
     "lektury/Sofokles - Antygona.md",
     "lektury/Homer - Iliada fragmenty",
-    "lektury/Mitologia/mit o Syzyfie.md",
-    "lektury/Mitologia/mit o Prometeuszu.md",
     "lektury/Mitologia.md",
     "lektury/Biblia/Apokalipsa św. Jana.md",
     "lektury/Biblia.md",
     "lektury/Biblia/Księga Koheleta.md",
-    "lektury/Mitologia/mit o Edypie.md",
     "lektury/Mitologia/mit o Narcyzie.md",
-    "lektury/Mitologia/mit o Tezeuszu.md",
     "motywy/motyw prometejski.md",
     "motywy/motyw wanitatywny.md",
     "motywy/motyw Fatum.md",
@@ -184,12 +189,7 @@
     "konteksty/Hendrick Goltzius - Quis evadet.md",
     "konteksty/Auschwitz nie spadło z nieba.md",
     "konteksty/Albert Camus - Mit Syzyfa.md",
-    "lektury/Biblia/Księga Rodzaju.md",
-    "Untitled",
     "lektury/Mitologia",
-    "Środki.md",
-    "lektury/Biblia/Pieśń nad Pieśniami.md",
-    "lektury/Biblia/Księga Psalmów.md",
     "obrazy",
     "obrazy/Pasted image 20240921120348.png",
     "motywy",

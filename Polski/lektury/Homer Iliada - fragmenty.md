@@ -17,3 +17,5 @@
 
 Metrum - trzynastozgłoskowiec
 
+Priam - ojciec Hektora
+Parys - brat Hektora

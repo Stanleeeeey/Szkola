@@ -4,7 +4,7 @@ Tezeusz szuka docenienia i odwagi, chcąc udowodnić swoją wartość podejmuję
 
 Po nitce do kłębka - trafić do rezultatu, poznając stopniowo kolejne szczegóły
 
-W drodze powrotną zostawia Arianne pod opieką Dionizosa. Zapomina zmienić maszty (na znak, że przeżył) przez co jego ojciec rzuca się ze skały
+W drodze powrotną zostawia Arianne pod opieką Dionizosa. Zapomina zmienić maszty (zostawia czarną) (na znak, że przeżył) przez co jego ojciec rzuca się ze skały
 
 Minotaur jako wewnętrzny lęk, labirynt jako nasze wnętrze
 

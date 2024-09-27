@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
+                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
+                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
+                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md"
+                "file": "siła jako przyczyna zmian ruchu/Tarcie.md"
               }
             }
           }
@@ -160,14 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3732a0079f540c9b",
+  "active": "51ad3115f599d4c0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "siła jako przyczyna zmian ruchu/Tarcie.md",
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
     "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
     "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
     "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "Fizyka.md",
-    "siła jako przyczyna zmian ruchu/Untitled.md",
     "optyka geometryczna/sketches/odbicie.md",
     "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
     "optyka geometryczna/soczewki.md",
@@ -189,7 +190,6 @@
     "optyka geometryczna/sketches",
     "zwierciada.md",
     "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
-    "Excalidraw/Drawing 2024-09-17 17.22.26.excalidraw.md",
     "Excalidraw",
     "optyka geometryczna/Untitled.canvas",
     "optyka geometryczna",

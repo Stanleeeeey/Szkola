@@ -2,3 +2,4 @@
 [[siła a zmiana pędu ciała]]
 [[zasada zachowania pędu dla układu ciał]]
 [[Tarcie]]
+[[siły w ruchu po okręgu]]

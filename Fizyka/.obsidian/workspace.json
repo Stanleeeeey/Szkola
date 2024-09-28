@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
+                "file": "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8791d5f25cd5cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "siły w ruchu po okręgu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
+                "file": "siły w ruchu po okręgu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/Tarcie.md",
+                "file": "siły w ruchu po okręgu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "siła jako przyczyna zmian ruchu/Tarcie.md"
+                "file": "siły w ruchu po okręgu.md"
               }
             }
           }
@@ -160,14 +172,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51ad3115f599d4c0",
+  "active": "b8791d5f25cd5cc7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "siła jako przyczyna zmian ruchu/Tarcie.md",
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
+    "siły w ruchu po okręgu.md",
+    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
+    "siła jako przyczyna zmian ruchu/Tarcie.md",
+    "Untitled.md",
     "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
     "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
-    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "Fizyka.md",
     "optyka geometryczna/sketches/odbicie.md",
     "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
@@ -189,7 +202,6 @@
     "optyka geometryczna/sketches/kąt graniczny.md",
     "optyka geometryczna/sketches",
     "zwierciada.md",
-    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
     "Excalidraw",
     "optyka geometryczna/Untitled.canvas",
     "optyka geometryczna",

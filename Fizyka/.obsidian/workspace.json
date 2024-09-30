@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+                "file": "Praca, moc, energia mechaniczna/Praca i moc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+                "file": "Praca, moc, energia mechaniczna/Praca i moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+                "file": "Praca, moc, energia mechaniczna/Praca i moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md"
+                "file": "Praca, moc, energia mechaniczna/Praca i moc.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "c22dd1e4c2a56daa",
   "lastOpenFiles": [
+    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+    "Praca, moc, energia mechaniczna/Praca i moc.md",
+    "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/IMG_E8792 1.jpg",
     "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
     "dualna natura promieniowania i materi/sketches/siatka dyfrakcyjna.md",
-    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
     "dualna natura promieniowania i materi/sketches",
     "siła jako przyczyna zmian ruchu/siły w ruchu po okręgu.md",
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
@@ -189,7 +191,6 @@
     "IMG_8792 1.jpg",
     "IMG_8792.jpg",
     "Polski/lektury",
-    "Polski/Pojęcia kluczowe",
-    "Polski"
+    "Polski/Pojęcia kluczowe"
   ]
 }

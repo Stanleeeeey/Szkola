@@ -1,5 +1,7 @@
 #antyk #lektura 
 
-Ze względu na przepowiednie porzucony w górach, przygarnięty przez władców Koryntu. Jako młodzieniec słucha przepowiedni delfickiej mówiącej mu, że zabije ojca i ożeni się z własną matką, dlatego opuszcza Korynt i udaję się to Teb. Po drodze morduję starca (jego ojca), w Tebach pokonuję sfinksa i żeni się z królową Teb (swoją matką). 20 lat później Edyp dowiaduję się prawdy wydłubuje sobie oczy i udaję się na wygnannie
+Ze względu na przepowiednie porzucony w górach, przygarnięty przez władców Koryntu. Jako młodzieniec słucha przepowiedni delfickiej mówiącej mu, że zabije ojca i ożeni się z własną matką, dlatego opuszcza Korynt i udaję się to Teb. Po drodze morduję starca (jego ojca), w Tebach pokonuję sfinksa i żeni się z królową Teb (swoją matką). 20 lat później Edyp dowiaduję się prawdy od Terezjasza wydłubuje sobie oczy i udaję się na wygnanie
+
+Edyp nieświadomy wagi popełnionych przez siebie czynów, błądzi.
 
 [[motyw Fatum]] - nieunikniony, zdefiniowany los ludzki

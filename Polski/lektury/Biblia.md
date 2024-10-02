@@ -14,6 +14,16 @@ cele
 - dydaktyczny
 - historyczny
 - proroczy
+## Styl Biblijny
+
+- rozpoczęcie zdania spójnikiem
+- szyk przestawny z czasownikiem na końcu
+- liczne powtórzenia i metafory
+- archaiczne słownictwo
+- nagromadzenie spójników i zaimków
+- wielokrotne złożenia
+
+*"I powiedział ..."*
 
 ## Stary Testament
 - [[Księga Rodzaju]]

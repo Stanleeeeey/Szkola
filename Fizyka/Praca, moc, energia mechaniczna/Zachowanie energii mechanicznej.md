@@ -1,0 +1,1 @@
+Energia mechaniczna jest zachowana jeśli na układ nie oddziaływuje żadna zewnętrzna siła, lub nie wykonują one pracy

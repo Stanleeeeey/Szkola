@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
+                "file": "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
+                "file": "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
+                "file": "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md"
+                "file": "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c22dd1e4c2a56daa",
   "lastOpenFiles": [
-    "Praca, moc, energia mechaniczna/Praca i moc.md",
     "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
+    "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
+    "Praca, moc, energia mechaniczna/Praca i moc.md",
     "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
     "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/IMG_E8792 1.jpg",
@@ -178,7 +179,6 @@
     "optyka geometryczna/lupa i oko. Wady wzroku.md",
     "optyka geometryczna/sketches/Soczewka.md",
     "optyka geometryczna/sketches/Untitled.md",
-    "optyka geometryczna/sketches/pryzmat.md",
     "optyka geometryczna/sketches",
     "Excalidraw",
     "optyka geometryczna/Untitled.canvas",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
+                "file": "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
+                "file": "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
+                "file": "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praca, moc, energia mechaniczna/Zderzenia ciał.md"
+                "file": "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c22dd1e4c2a56daa",
   "lastOpenFiles": [
-    "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
     "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
+    "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
+    "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
     "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
     "Praca, moc, energia mechaniczna/Praca i moc.md",
     "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
@@ -178,7 +179,6 @@
     "siła jako przyczyna zmian ruchu",
     "sia jako przyczyna zmian ruchu.md",
     "optyka geometryczna/lupa i oko. Wady wzroku.md",
-    "optyka geometryczna/sketches/Soczewka.md",
     "optyka geometryczna/sketches",
     "Excalidraw",
     "optyka geometryczna/Untitled.canvas",

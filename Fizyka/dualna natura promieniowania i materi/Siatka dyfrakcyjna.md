@@ -10,3 +10,5 @@ $\alpha_n$ - kąt ugięcia
 $n$ - rząd prążka
 
 
+$$\lambda = \frac{\lambda_0}{n}$$
+

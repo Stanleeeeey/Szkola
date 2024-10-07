@@ -1,4 +1,5 @@
-
+[[dualna natura promieniowania i materi/Siatka dyfrakcyjna|Siatka dyfrakcyjna]]
+[[Zdolność rozdzielcza przyrządów optycznych]]
 # Fale elektromagnetyczne
 ### Ogólne własności
 

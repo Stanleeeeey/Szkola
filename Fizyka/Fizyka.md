@@ -4,3 +4,5 @@ Działy:
 - [[Praca, moc, energia mechaniczna]]
 - [[Dualna natura promieniowania i materii]]
 - [[optyka geometryczna]]
+- [[zjawiska hydrostastyczne]]
+- 

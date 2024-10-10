@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
+                "file": "dualna natura promieniowania i materi/polaryzacja światła.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "35d0e0b9ef4ba56b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "dualna natura promieniowania i materi/sketches/prawo malusa.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
+                "file": "dualna natura promieniowania i materi/polaryzacja światła.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
+                "file": "dualna natura promieniowania i materi/polaryzacja światła.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md"
+                "file": "dualna natura promieniowania i materi/polaryzacja światła.md"
               }
             }
           }
@@ -149,12 +159,19 @@
   },
   "active": "c22dd1e4c2a56daa",
   "lastOpenFiles": [
+    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+    "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
+    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
+    "dualna natura promieniowania i materi/sketches/prawo malusa.md",
+    "dualna natura promieniowania i materi/polaryzacja światła.md",
+    "dualna natura promieniowania i materi/sketches/substancja czynna optycznie.md",
+    "dualna natura promieniowania i materi/sketches/polaryzacja od odbicia.md",
+    "dualna natura promieniowania i materi/sketches/dwójłomność.md",
+    "dualna natura promieniowania i materi/sketches/polaryzacja światła.md",
+    "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",
     "dualna natura promieniowania i materi/sketches/zdolność rozdzielcza.md",
     "dualna natura promieniowania i materi/sketches/siatka dyfrakcyjna.md",
-    "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
     "dualna natura promieniowania i materi/sketches/Drawing 2024-10-07 12.00.58.excalidraw.md",
-    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
-    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
     "opis ruchu postpowego/Opis ruchu postępowego.md",
     "siła jako przyczyna zmian ruchu/siła jako przyczyna zmian ruchu.md",
     "Praca, moc, energia mechaniczna/Praca, moc, energia mechaniczna.md",
@@ -165,19 +182,12 @@
     "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
     "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
     "Praca, moc, energia mechaniczna",
-    "dualna natura promieniowania i materi/IMG_E8792 1.jpg",
     "dualna natura promieniowania i materi/sketches",
     "siła jako przyczyna zmian ruchu/siły w ruchu po okręgu.md",
     "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "siła jako przyczyna zmian ruchu/Tarcie.md",
     "Untitled.md",
     "siła jako przyczyna zmian ruchu/zasada zachowania pędu dla układu ciał.md",
-    "siła jako przyczyna zmian ruchu/zasady dynamiki Newtona.md",
-    "optyka geometryczna/sketches/odbicie.md",
-    "optyka geometryczna/sketches/zwierciadło wklęsłe.md",
-    "optyka geometryczna/soczewki.md",
-    "optyka geometryczna/optyka geometryczna.md",
-    "optyka geometryczna/Odchylenie promienia świetlnego w pryzmacie.md",
     "siła jako przyczyna zmian ruchu",
     "optyka geometryczna/sketches",
     "Excalidraw",
@@ -185,7 +195,7 @@
     "optyka geometryczna",
     "Untitled.canvas",
     "opis ruchu postpowego",
-    "dualna natura promieniowania i materi/IMG_E8793.jpg",
+    "dualna natura promieniowania i materi/sketches/IMG_E8793.jpg",
     "dualna natura promieniowania i materi",
     "IMG_E8792.jpg",
     "IMG_8792 1.jpg",

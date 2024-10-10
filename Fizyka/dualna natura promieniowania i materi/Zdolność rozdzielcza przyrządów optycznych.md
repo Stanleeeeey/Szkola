@@ -2,4 +2,4 @@
 
 ## Kryterium Rayleigha
 
-zdolność rozdzielcza: $sin(\alpha) = 1.22*\frac{\lambda}{a}$
+maksymalna zdolność rozdzielcza: $sin(\alpha) = 1.22*\frac{\lambda}{a}$

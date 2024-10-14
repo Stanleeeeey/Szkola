@@ -26,3 +26,6 @@
 
 ^f6fa11
 
+## Retardacja
+
+zamierzone opóźnienie akcji celu budowy napięcia

@@ -1,2 +1,2 @@
 - [[ciśnienie hydrostatyczne]]
-- 
+- [[Prawo Pascala]]

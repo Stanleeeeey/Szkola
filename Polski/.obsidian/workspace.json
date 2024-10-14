@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Sofokles - Antygona.md",
+                "file": "Pojęcia kluczowe/Tyrteizm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7b05a744e12c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funkcje języka.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Sofokles - Antygona.md",
+                "file": "Funkcje języka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lektury/Sofokles - Antygona.md",
+                "file": "Funkcje języka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lektury/Sofokles - Antygona.md"
+                "file": "Funkcje języka.md"
               }
             }
           }
@@ -146,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b13728ea86a7c4",
+  "active": "3a7b05a744e12c97",
   "lastOpenFiles": [
-    "lektury/Mitologia/mit o Edypie.md",
+    "Pojęcia kluczowe/Tyrteizm.md",
+    "Funkcje języka.md",
+    "Pojęcia kluczowe/Kosmogonia.md",
+    "Pojęcia kluczowe/Teogonia.md",
+    "Środki stylistyczne.md",
+    "Pojęcia kluczowe/Fortuna.md",
+    "Pojęcia kluczowe/Topos.md",
     "lektury/Sofokles - Antygona.md",
+    "lektury/Mitologia/mit o Edypie.md",
     "epoki/Antyk.md",
     "Pojęcia kluczowe/Zasada trzech jedności.md",
     "Pojęcia kluczowe/Decorum.md",
@@ -168,15 +188,8 @@
     "lekcje/Powtórzenie wiadomości mitologia.md",
     "lektury/Mitologia/mit od Dedalu i Ikarze.md",
     "konteksty/Wisława Szymborska - Nagrobek.md",
-    "lektury/Homer Iliada - fragmenty.md",
-    "lektury/Mitologia/mit o Syzyfie.md",
-    "lektury/Mitologia/mit o Tezeuszu.md",
-    "lektury/Mitologia/mit o Prometeuszu.md",
     "lekcje",
-    "Środki literackie.md",
-    "lektury/Horacy - Exegi monumentum.md",
     "lektury/Homer - Iliada fragmenty",
-    "lektury/Mitologia.md",
     "lektury/Mitologia",
     "obrazy",
     "obrazy/Pasted image 20240921120348.png",

@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Pascala.md",
+                "file": "Fizyka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Pascala.md",
+                "file": "Fizyka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Pascala.md"
+                "file": "Fizyka.md"
               }
             }
           }

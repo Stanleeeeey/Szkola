@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4b13728ea86a7c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pojęcia kluczowe/Tyrteizm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a7b05a744e12c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funkcje języka.md",
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funkcje języka.md",
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funkcje języka.md",
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funkcje języka.md"
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md"
               }
             }
           }
@@ -161,8 +148,10 @@
   },
   "active": "3a7b05a744e12c97",
   "lastOpenFiles": [
-    "Pojęcia kluczowe/Tyrteizm.md",
+    "lektury/Tadeusz Borowski - Prosze panstwa do gazu.md",
+    "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
     "Funkcje języka.md",
+    "Pojęcia kluczowe/Tyrteizm.md",
     "Pojęcia kluczowe/Kosmogonia.md",
     "Pojęcia kluczowe/Teogonia.md",
     "Środki stylistyczne.md",
@@ -186,8 +175,6 @@
     "lektury/Biblia.md",
     "Omówienia lektur.md",
     "lekcje/Powtórzenie wiadomości mitologia.md",
-    "lektury/Mitologia/mit od Dedalu i Ikarze.md",
-    "konteksty/Wisława Szymborska - Nagrobek.md",
     "lekcje",
     "lektury/Homer - Iliada fragmenty",
     "lektury/Mitologia",

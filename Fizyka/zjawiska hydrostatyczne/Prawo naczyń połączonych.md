@@ -1,0 +1,1 @@
+Warunkiem równowagi jest równe ciśnienie we wszystkich ramionach ([[Prawo naczyń połączonych]])

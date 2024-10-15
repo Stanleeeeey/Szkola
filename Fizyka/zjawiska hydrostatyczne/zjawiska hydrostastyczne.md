@@ -1,2 +1,3 @@
 - [[ciśnienie hydrostatyczne]]
 - [[Prawo Pascala]]
+- [[Prawo naczyń połączonych]]

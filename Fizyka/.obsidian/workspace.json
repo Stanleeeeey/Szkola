@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Pascala.md",
+                "file": "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "036c7bdc7450398f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7671a69fd735170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fizyka.md",
+                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fizyka.md",
+                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizyka.md"
+                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md"
               }
             }
           }
@@ -194,11 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3732a0079f540c9b",
+  "active": "a7671a69fd735170",
   "lastOpenFiles": [
     "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",
     "zjawiska hydrostatyczne/Prawo Pascala.md",
     "zjawiska hydrostatyczne/ciśnienie hydrostatyczne.md",
+    "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
+    "zjawiska hydrostatyczne/sketches/naczynia połączone.md",
+    "zjawiska hydrostatyczne/sketches/Drawing 2024-10-15 17.17.02.excalidraw.md",
+    "zjawiska hydrostatyczne/sketches",
     "Fizyka.md",
     "zjawiska hydrostatyczne",
     "dualna natura promieniowania i materi/polaryzacja światła.md",
@@ -221,11 +249,8 @@
     "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
     "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
     "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
-    "Praca, moc, energia mechaniczna/Rodzaje energii mechanicznej.md",
     "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/sketches",
-    "siła jako przyczyna zmian ruchu/siły w ruchu po okręgu.md",
-    "siła jako przyczyna zmian ruchu/siła a zmiana pędu ciała.md",
     "siła jako przyczyna zmian ruchu",
     "optyka geometryczna/sketches",
     "Excalidraw",
@@ -237,7 +262,6 @@
     "dualna natura promieniowania i materi",
     "IMG_E8792.jpg",
     "IMG_8792 1.jpg",
-    "IMG_8792.jpg",
-    "Polski/lektury"
+    "IMG_8792.jpg"
   ]
 }

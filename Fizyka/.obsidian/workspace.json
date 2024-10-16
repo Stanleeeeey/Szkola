@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
+                "file": "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc621a484799f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
+                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
+                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo naczyń połączonych.md"
+                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md"
               }
             }
           }
@@ -218,12 +230,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7671a69fd735170",
+  "active": "3732a0079f540c9b",
   "lastOpenFiles": [
     "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",
+    "zjawiska hydrostatyczne/Prawo Archimedesa.md",
+    "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
     "zjawiska hydrostatyczne/Prawo Pascala.md",
     "zjawiska hydrostatyczne/ciśnienie hydrostatyczne.md",
-    "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
     "zjawiska hydrostatyczne/sketches/naczynia połączone.md",
     "zjawiska hydrostatyczne/sketches/Drawing 2024-10-15 17.17.02.excalidraw.md",
     "zjawiska hydrostatyczne/sketches",
@@ -248,7 +261,6 @@
     "Praca, moc, energia mechaniczna/Praca i moc.md",
     "Praca, moc, energia mechaniczna/Sprawność urządzeń mechanicznych.md",
     "Praca, moc, energia mechaniczna/Zderzenia ciał.md",
-    "Praca, moc, energia mechaniczna/Zachowanie energii mechanicznej.md",
     "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/sketches",
     "siła jako przyczyna zmian ruchu",

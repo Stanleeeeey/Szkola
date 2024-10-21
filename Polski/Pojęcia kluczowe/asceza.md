@@ -1,0 +1,1 @@
+Pozbawiona warstw materialnych, skromna minimalistyczna. Umartwianie ciała, post

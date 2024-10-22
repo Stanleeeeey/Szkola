@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Prawo Archimedesa"
             }
-          },
-          {
-            "id": "cfd52c15e9d87752",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +163,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfd52c15e9d87752",
+  "active": "abc621a484799f52",
   "lastOpenFiles": [
     "Fizyka.md",
     "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",

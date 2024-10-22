@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Legenda o św Aleksym.md",
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Legenda o św Aleksym"
+              "title": "Hanna Krall - Zdążyć przed Panem Bogiem"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lektury/Legenda o św Aleksym.md",
+                "file": "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Legenda o św Aleksym"
+              "title": "Backlinks for Hanna Krall - Zdążyć przed Panem Bogiem"
             }
           },
           {
@@ -164,8 +164,9 @@
   },
   "active": "8d27083bb40cda93",
   "lastOpenFiles": [
-    "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
+    "epoki/Współczesność.md",
     "lektury/Legenda o św Aleksym.md",
+    "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
     "Pojęcia kluczowe/asceza.md",
     "Pojęcia kluczowe/Legenda.md",
     "epoki/Średniowiecze.md",
@@ -173,7 +174,6 @@
     "lekcje/Powtórzenie wiadomości mitologia.md",
     "epoki/Antyk.md",
     "lektury/Bogurodzica.md",
-    "epoki/Współczesność.md",
     "lektury/kwiatki św Franciszka.md",
     "lektury/Pieśń o Rolandzie.md",
     "Pojęcia kluczowe/Pierwszy Poruszyciel.md",

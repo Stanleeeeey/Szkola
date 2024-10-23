@@ -7,6 +7,7 @@ Reportaż - forma na pograniczu literatury i publicystyki. Ma za zadanie przybli
 
 Język - zdystansowany, nie upiększa, rzeczowy, spokojny, mówi faktami.
 
+opisywane wydarzenia - wiosna 1943
 ## Bohaterowie
 
 Marek Edelman - jeden z przywódców powstania, później lekarz
@@ -30,4 +31,9 @@ Edelman opisując pomnik powstańców warszawskiego getta zauważa, że żaden z
 
 ## Powojenne życie Edelmana
 
-Popadł w apatie , katatonię. Później zapisany na wykłady medyczne przez swoją żonę. Doświadczenie wojenne, sprawiło, że był bardziej skłonny podjąć ryzykowne operacje. Edelman był bardzo zaangażowany w swoją pracę, jednak zachowywał dystans wobec ludzi. 
+Popadł w apatie , katatonię. Później zapisany na wykłady medyczne przez swoją żonę. Doświadczenie wojenne, sprawiło, że był bardziej skłonny podjąć ryzykowne operacje. Edelman był bardzo zaangażowany w swoją pracę, jednak zachowywał dystans wobec ludzi. Palma w szpitalu jak słupek na placu.
+
+**Jakim lekarzem był Edelman?**
+	Jest lekarzem dla którego fundamentalną sprawą jest życie, rozumie swoje zadanie by przedłużać chorym życie - wyścig z Panem Bogiem. Służy on życiu, sprawia by stawało się dłuższe, lepsze, szczęśliwsze. Bardzo angażuję się , skraca dystans między lekarzem i pacjentem, zależy mu na życiu pacjenta. Przeżycia z placu sprawia, że życie stało się dla niego najważniejszą wartością. Jest świadomy kontrastu proporcji tu ratuje jedną osobę, a tam przeszło 400000, ale i tak uważa, że to ma sens, ponieważ ratuje cały czyjś świat.
+
+**WAŻNA SCENA** - obcinanie brody żyda na beczce przez niemieckich oficerów. Można było g tam bezkarnie postawić, najważniejsze jest by nie dać się wepchnąć na beczkę.

@@ -2,7 +2,7 @@
 
 
 #niekompletne 
-Lektury
+## Lektury
 - [[Pieśń o Rolandzie]]
 - [[kwiatki św Franciszka]]
 - [[Bogurodzica]]
@@ -18,8 +18,7 @@ Lektury
 - 1450 - Prasa drukarska, biblia Gottenberga
 - 1453 - Upadek Konstantynopola
 - 1492 - Odkrycie Ameryki
-- 1517 - reformacja Luthera
-- 1543 - *"O obrotach sfer niebieskich"* Mikołaja Kopernika
+
 
 
 #zlemiejsce

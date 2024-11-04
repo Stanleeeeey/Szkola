@@ -9,5 +9,6 @@ mit - opowieść o bóstwach i istotach nadprzyrodzonych, przekazywana przez dan
 [[mit o Edypie]]
 [[mit o Narcyzie]]
 [[mit o Prometeuszu]]
+[[mit od Dedalu i Ikarze]]
 
 

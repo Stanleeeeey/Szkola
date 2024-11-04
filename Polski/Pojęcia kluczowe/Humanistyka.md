@@ -1,0 +1,2 @@
+#pojęciekluczowe 
+obszar nauk zajmująca się działalnością człowieka np. psychologia, socjologia, literaturoznawstwo, filologia. Filozofia myślenia o świecie i człowieku, gdzie jego twórczość jest źródłem zainteresowań. 

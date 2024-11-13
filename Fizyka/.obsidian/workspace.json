@@ -25,12 +25,12 @@
             "id": "f488c6a3cf1b04e8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "dualna natura promieniowania i materi/sketches/polaryzacja światła.md"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "icon": "excalidraw-icon",
+              "title": "polaryzacja światła"
             }
           },
           {
@@ -196,11 +196,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f488c6a3cf1b04e8",
   "lastOpenFiles": [
+    "dualna natura promieniowania i materi/sketches/dwójłomność.md",
     "dualna natura promieniowania i materi/sketches/układ fotoelektryczny.md",
     "dualna natura promieniowania i materi/Zjawisko fotoelektryczne zewnętrzne.md",
     "dualna natura promieniowania i materi/sketches/fotoelektryczne.md",
@@ -232,7 +234,6 @@
     "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
     "dualna natura promieniowania i materi/sketches/prawo malusa.md",
     "dualna natura promieniowania i materi/sketches/substancja czynna optycznie.md",
-    "dualna natura promieniowania i materi/sketches/polaryzacja od odbicia.md",
     "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",
     "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/sketches",

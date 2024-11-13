@@ -2,7 +2,7 @@
 
 #niekompletne 
 ## Lektury
-- [[William Szekspir - Makbet]]
+- [[Szekspir - Makbet]]
 - [[Molier - Skąpiec]]
 - [[Jan Kochanowski -  Treny]]
 - [[Jan Kochanowski - fraszki]]

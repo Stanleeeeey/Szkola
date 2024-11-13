@@ -1,4 +1,4 @@
-#kontekst #niekompletne 
+#kontekst 
 
 ## Zagadnienie
 - obecność kościoła w zaawansowanym świecie
@@ -8,3 +8,5 @@
 ## Katedra
 
 nie jest katedrą z religijnego punktu widzenia. Wyrób zaawansowanej technologi - żywokryt, żywy organizm. Nie jest budynkiem, ale ma cechy architektury, nie jest sztuką, ale wzbudza zachwyt, nie jest dziełem człowieka, bo ma materie nieznaną człowiekowi, nie jest naturą, bo zainicjował ją człowiek. Jest bytem niepojętym. 
+
+Główny bohater - Pierre Lavone

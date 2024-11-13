@@ -1,3 +1,3 @@
-#renesans #kontekst #niekompletne 
+#renesans #kontekst 
 
-zawiera stoicyzm, motyw wanitatywny, motyw teatru mundi
+zawiera stoicyzm, motyw wanitatywny, motyw teatru mundi. Nie ma pewnej rzeczy w świecie

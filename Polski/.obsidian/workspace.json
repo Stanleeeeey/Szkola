@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Gustaw Herling-Grudziński -  Inny świat.md",
+                "file": "lektury/Molier - Skąpiec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gustaw Herling-Grudziński -  Inny świat"
+              "title": "Molier - Skąpiec"
+            }
+          },
+          {
+            "id": "c5b8f1873898a639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konteksty/Jan Kochanowski - O żywocie ludzkim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jan Kochanowski - O żywocie ludzkim"
             }
           }
         ]
@@ -164,32 +178,32 @@
   },
   "active": "4dce55a5f3b2d176",
   "lastOpenFiles": [
-    "epoki/Średniowiecze.md",
-    "Pojęcia kluczowe/Doloryzm.md",
     "epoki/Renesans.md",
+    "lektury/Molier - Skąpiec.md",
+    "lektury/Szekspir - Makbet.md",
+    "lektury/Gustaw Herling-Grudziński -  Inny świat.md",
+    "konteksty/Jan Kochanowski - O żywocie ludzkim.md",
+    "lektury/Jan Kochanowski - fraszki.md",
+    "lektury/Jan Kochanowski - Pieśni.md",
+    "konteksty/Jacek Dukaj - Katedra.md",
+    "lektury/Pieśń o Rolandzie.md",
+    "lektury/Rozmowy mistrza Polikarpa ze śmiercią.md",
+    "epoki/Średniowiecze.md",
+    "lektury/Bogurodzica.md",
+    "Pojęcia kluczowe/Doloryzm.md",
     "lektury/Legenda o św Aleksym.md",
     "Pojęcia kluczowe/Humanizm.md",
     "Pojęcia kluczowe/Antropocentryzm.md",
-    "lektury/Gustaw Herling-Grudziński -  Inny świat.md",
     "lekcje/Rozprawki.md",
     "lekcje/Zadania maturalne.md",
     "lekcje/Powtórzenie wiadomości mitologia.md",
-    "konteksty/Jacek Dukaj - Katedra.md",
-    "lektury/Szekspir - Makbet.md",
     "lektury/Jan Kochanowski -  Treny.md",
     "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
     "lektury/Homer Iliada - fragmenty.md",
-    "lektury/Jan Kochanowski - fraszki.md",
     "lektury/kwiatki św Franciszka.md",
     "lektury/Lament świętokrzyski.md",
     "lektury/Mitologia.md",
-    "lektury/Pieśń o Rolandzie.md",
     "lektury/Sofokles - Antygona.md",
-    "lektury/Wieslawa Szymborska - Jeszcze.md",
-    "lektury/Tadeusz Borowski - Proszę państwa do gazu.md",
-    "lektury/Biblia.md",
-    "konteksty/Jan Kochanowski - O żywocie ludzkim.md",
-    "Pojęcia kluczowe/Stoicyzm.md",
     "epoki",
     "lekcje",
     "lektury/Homer - Iliada fragmenty",

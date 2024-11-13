@@ -1,7 +1,5 @@
 #średniowiecze
 
-
-#niekompletne 
 ## Lektury
 - [[Pieśń o Rolandzie]]
 - [[kwiatki św Franciszka]]
@@ -9,7 +7,7 @@
 - [[Dante Alighieri - Boska komedia]]
 - [[Lament świętokrzyski]]
 - [[Legenda o św Aleksym]]
-- 
+- [[Rozmowy mistrza Polikarpa ze śmiercią]]
 ## Literatura
 - wzorce postępowania (żywoty świętych, rycerzy, władców)
 - literatura parenetyczna (łac. parenesia, dająca wzorce)
@@ -23,4 +21,6 @@
 
 #zlemiejsce
 św. Augustyn - dualizm istoty ludzkiej, dusza i ciała. W nim widział źródło wątpliwości i niepokojów. Ciało utożsamiał z przywiązaniem do materii, pokusami, nietrwałością , a duszę z sferą metafizyczną, jest zagrożona przez pokusy fizyczne. Człowiek powinien zwracać się w stronę boskości, skupić się na duszy.
+
+św. Tomasz z Akwinu - drabina bytów, najwyżej Bóg najniżej byty najprostsze - rośliny.
 

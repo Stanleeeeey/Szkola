@@ -25,12 +25,14 @@
             "id": "f488c6a3cf1b04e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "dualna natura promieniowania i materi/sketches/polaryzacja światła.md"
+                "file": "dualna natura promieniowania i materi/sketches/Promieniowanie ciał widma.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "polaryzacja światła"
+              "icon": "lucide-file",
+              "title": "Promieniowanie ciał widma"
             }
           },
           {
@@ -202,12 +204,13 @@
   },
   "active": "f488c6a3cf1b04e8",
   "lastOpenFiles": [
+    "dualna natura promieniowania i materi/sketches/polaryzacja światła.md",
+    "dualna natura promieniowania i materi/sketches/Promieniowanie ciał widma.md",
     "dualna natura promieniowania i materi/sketches/dwójłomność.md",
     "dualna natura promieniowania i materi/sketches/układ fotoelektryczny.md",
     "dualna natura promieniowania i materi/Zjawisko fotoelektryczne zewnętrzne.md",
     "dualna natura promieniowania i materi/sketches/fotoelektryczne.md",
     "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
-    "dualna natura promieniowania i materi/sketches/Untitled.md",
     "elektrostatyka/sketches/energia potencjalna.md",
     "magnetyzm/powtórzenie.md",
     "magnetyzm/sketches/siła Lorentza.md",
@@ -233,7 +236,6 @@
     "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
     "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
     "dualna natura promieniowania i materi/sketches/prawo malusa.md",
-    "dualna natura promieniowania i materi/sketches/substancja czynna optycznie.md",
     "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",
     "Praca, moc, energia mechaniczna",
     "dualna natura promieniowania i materi/sketches",

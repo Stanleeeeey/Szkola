@@ -1,4 +1,4 @@
-#kontekst #współczesność #niekompletne
+#kontekst #współczesność 
 
 *Ziemia niebo ciało Hioba gnój
 niebo gnój

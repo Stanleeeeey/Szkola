@@ -1,6 +1,5 @@
 #renesans 
 
-#niekompletne 
 ## Lektury
 - [[Szekspir - Makbet]]
 - [[Molier - Skąpiec]]

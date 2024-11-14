@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Molier - Skąpiec.md",
+                "file": "epoki/Współczesność.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molier - Skąpiec"
+              "title": "Współczesność"
             }
           },
           {
             "id": "2ccb9f2ac76fd15e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "lektury/kwiatki św Franciszka.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "kwiatki św Franciszka"
             }
           },
           {
@@ -47,8 +49,7 @@
               "title": "Jan Kochanowski - O żywocie ludzkim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#niek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,34 +191,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ccb9f2ac76fd15e",
+  "active": "4dce55a5f3b2d176",
   "lastOpenFiles": [
-    "epoki/Renesans.md",
-    "lektury/Molier - Skąpiec.md",
+    "konteksty/Tadeusz Różewicz - Hiob 1957.md",
+    "Pojęcia kluczowe/Stoicyzm.md",
     "lektury/Szekspir - Makbet.md",
-    "lektury/Gustaw Herling-Grudziński -  Inny świat.md",
+    "epoki/Renesans.md",
+    "lektury/Legenda o św Aleksym.md",
+    "lektury/kwiatki św Franciszka.md",
+    "epoki/Średniowiecze.md",
+    "lektury/Jan Kochanowski -  Treny.md",
+    "lektury/Molier - Skąpiec.md",
     "konteksty/Jan Kochanowski - O żywocie ludzkim.md",
+    "lektury/Bogurodzica.md",
+    "lektury/Lament świętokrzyski.md",
     "lektury/Jan Kochanowski - fraszki.md",
+    "konteksty/Reformacja.md",
+    "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
+    "lektury/Gustaw Herling-Grudziński -  Inny świat.md",
     "lektury/Jan Kochanowski - Pieśni.md",
     "konteksty/Jacek Dukaj - Katedra.md",
     "lektury/Pieśń o Rolandzie.md",
     "lektury/Rozmowy mistrza Polikarpa ze śmiercią.md",
-    "epoki/Średniowiecze.md",
-    "lektury/Bogurodzica.md",
     "Pojęcia kluczowe/Doloryzm.md",
-    "lektury/Legenda o św Aleksym.md",
     "Pojęcia kluczowe/Humanizm.md",
     "Pojęcia kluczowe/Antropocentryzm.md",
     "lekcje/Rozprawki.md",
     "lekcje/Zadania maturalne.md",
     "lekcje/Powtórzenie wiadomości mitologia.md",
-    "lektury/Jan Kochanowski -  Treny.md",
-    "lektury/Hanna Krall - Zdążyć przed Panem Bogiem.md",
-    "lektury/Homer Iliada - fragmenty.md",
-    "lektury/kwiatki św Franciszka.md",
-    "lektury/Lament świętokrzyski.md",
-    "lektury/Mitologia.md",
-    "lektury/Sofokles - Antygona.md",
     "epoki",
     "lekcje",
     "lektury/Homer - Iliada fragmenty",

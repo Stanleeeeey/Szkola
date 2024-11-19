@@ -1,0 +1,1 @@
+#barok #kontekst #niekompletne 

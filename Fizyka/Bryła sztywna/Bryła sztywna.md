@@ -1,0 +1,1 @@
+- [[iloczyn wektorowy]]]

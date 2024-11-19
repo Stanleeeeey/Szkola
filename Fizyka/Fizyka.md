@@ -5,4 +5,5 @@ Działy:
 - [[Dualna natura promieniowania i materii]]
 - [[optyka geometryczna]]
 - [[zjawiska hydrostastyczne]]
+- [[Bryła sztywna]]
 - 

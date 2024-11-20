@@ -1,1 +1,2 @@
-- [[iloczyn wektorowy]]]
+- [[iloczyn wektorowy]]
+- [[ruch obrotowy bryły sztywnej]]

@@ -1,6 +1,7 @@
 [[dualna natura promieniowania i materi/Siatka dyfrakcyjna|Siatka dyfrakcyjna]]
 [[Zdolność rozdzielcza przyrządów optycznych]]
 [[dualna natura promieniowania i materi/polaryzacja światła]]
+[[model atomowy wodoru Bohra]]
 # Fale elektromagnetyczne
 ### Ogólne własności
 

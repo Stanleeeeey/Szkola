@@ -13,86 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka.md",
+                "file": "dualna natura promieniowania i materi/Promieniowanie ciał widma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizyka"
+              "title": "Promieniowanie ciał widma"
             }
           },
           {
-            "id": "91bad3694f3bc887",
+            "id": "e3bf3406996fb7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bryła sztywna/Bryła sztywna.md",
+                "file": "dualna natura promieniowania i materi/Promieniowanie ciał widma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bryła sztywna"
-            }
-          },
-          {
-            "id": "7a0ba03ac287f621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bryła sztywna/iloczyn wektorowy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "iloczyn wektorowy"
-            }
-          },
-          {
-            "id": "a2a11c7c503345ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bryła sztywna/Bryła sztywna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bryła sztywna"
-            }
-          },
-          {
-            "id": "64d040d6be0eba2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dualna natura promieniowania i materii"
-            }
-          },
-          {
-            "id": "508e18138ac014f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bryła sztywna/druga zasada dynamiki dla bryły.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "druga zasada dynamiki dla bryły"
+              "title": "Promieniowanie ciał widma"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "promieniowanie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,23 +178,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "508e18138ac014f3",
+  "active": "e3bf3406996fb7b7",
   "lastOpenFiles": [
-    "Bryła sztywna/Bryła sztywna.md",
-    "Bryła sztywna/druga zasada dynamiki dla bryły.md",
-    "Bryła sztywna/ruch obrotowy bryły sztywnej.md",
-    "Bryła sztywna/iloczyn wektorowy.md",
+    "dualna natura promieniowania i materi/Model wodoru Bohra.md",
+    "dualna natura promieniowania i materi/Promieniowanie ciał widma.md",
     "dualna natura promieniowania i materi/model atomowy wodoru Bohra.md",
+    "dualna natura promieniowania i materi/Zjawisko fotoelektryczne zewnętrzne.md",
+    "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
+    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
+    "dualna natura promieniowania i materi/polaryzacja światła.md",
     "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
+    "Bryła sztywna/ruch obrotowy bryły sztywnej.md",
+    "Bryła sztywna/druga zasada dynamiki dla bryły.md",
+    "Bryła sztywna/Bryła sztywna.md",
+    "Fizyka.md",
+    "Bryła sztywna/iloczyn wektorowy.md",
     "zjawiska hydrostatyczne/zjawiska hydrostastyczne.md",
     "Bryła sztywna",
-    "Fizyka.md",
     "dualna natura promieniowania i materi/sketches/fotoelektryczne.md",
     "dualna natura promieniowania i materi/sketches/układ fotoelektryczny.md",
-    "dualna natura promieniowania i materi/sketches/Promieniowanie ciał widma.md",
     "dualna natura promieniowania i materi/sketches/polaryzacja światła.md",
     "dualna natura promieniowania i materi/sketches/dwójłomność.md",
-    "dualna natura promieniowania i materi/Zjawisko fotoelektryczne zewnętrzne.md",
     "elektrostatyka/sketches/energia potencjalna.md",
     "magnetyzm/powtórzenie.md",
     "magnetyzm/sketches/siła Lorentza.md",
@@ -263,10 +211,6 @@
     "elektrostatyka/sketches",
     "zjawiska hydrostatyczne/Prawo Archimedesa.md",
     "elektrostatyka",
-    "zjawiska hydrostatyczne/Prawo naczyń połączonych.md",
-    "zjawiska hydrostatyczne/Prawo Pascala.md",
-    "zjawiska hydrostatyczne/ciśnienie hydrostatyczne.md",
-    "zjawiska hydrostatyczne/sketches/naczynia połączone.md",
     "zjawiska hydrostatyczne/sketches",
     "zjawiska hydrostatyczne",
     "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",

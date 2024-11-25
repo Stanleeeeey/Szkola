@@ -2,6 +2,7 @@
 [[Zdolność rozdzielcza przyrządów optycznych]]
 [[dualna natura promieniowania i materi/polaryzacja światła]]
 [[model atomowy wodoru Bohra]]
+[[Model wodoru Bohra]]
 # Fale elektromagnetyczne
 ### Ogólne własności
 

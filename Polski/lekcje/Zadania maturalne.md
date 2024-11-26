@@ -28,3 +28,13 @@ Jakimi środkami językowymi można realizować funkcję perswazyjną?
 		- wskazanie jasnego wroga, winnego całego zła.
 	Kontekst (Porfiry "Zbrodnia i Kara", "Chłopi" narada chłopów nad wyrzuceniem Jagny, Bogusław Radziwiłł rozmowa z Kmicicem.): 
 
+Jak rozpoznać nietyczne zachowania językowe?
+	teza: Prosty nacechowany negatywnie język, brak argumentów
+	Tekst:
+	- obraza rozmawiającego
+	- brak argumentów rzeczowych, argumenty ad persona
+	Kontekst - folwark zwięrzecy:
+	- narzucenie odbiorcy prostego źródła problemu
+	- przypisanie całego zła źródłu
+
+- 

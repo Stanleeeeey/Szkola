@@ -38,3 +38,19 @@ Jak rozpoznać nietyczne zachowania językowe?
 	- przypisanie całego zła źródłu
 
 - 
+
+Mity i legendy obalać czy podtrzymywać?
+Teza: podtrzymywać
+- jest narzędziem wiedzy o czasach minionych
+- przedstawiają prawdy moralne
+
+Sposób widzenia świata, a czasy w których człowiek żyje
+Teza: Sposób widzenia świata przez człowieka odzwierciedla idee epoki w której się wychował.
+- ponieważ na człowieka wpływają obecne wokół niego wartości
+- ponieważ na człowieka działają osiągnięcia kultury i nauki.
+
+
+Wrażliwość jako akt odwagi o nieprzewidywalnych konsekwencjach:
+Teza: przyczynia się do ratunku czyjegoś życia, kosztem cierpienia
+- ponieważ jest aktem odwagi w sytuacjach ekstremalnych sytuacjach. 
+- ponieważ prowadzi do altruizmu, poświęcenia

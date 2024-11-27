@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epoki/Barok.md",
+                "file": "lekcje/Zadania maturalne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barok"
+              "title": "Zadania maturalne"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "bb12d2c25f52578b",
   "lastOpenFiles": [
-    "epoki/Renesans.md",
+    "lekcje/Rozprawki.md",
+    "lekcje/Untitled.md",
     "epoki/Barok.md",
+    "epoki/Renesans.md",
     "epoki/Antyk.md",
     "Funkcje języka.md",
     "Ćwiczenia z pisania rozprawki.md",
@@ -202,8 +204,6 @@
     "lektury/Jan Kochanowski - fraszki.md",
     "konteksty/Tadeusz Różewicz - Hiob 1957.md",
     "Pojęcia kluczowe/Stoicyzm.md",
-    "lektury/Legenda o św Aleksym.md",
-    "lektury/kwiatki św Franciszka.md",
     "epoki",
     "lekcje",
     "lektury/Homer - Iliada fragmenty",

@@ -4,6 +4,8 @@
 
 - [[Jan Chyryzostom Pasek - Pamiętniki]]
 - [[Jan Andrzej Morsztyn - Do trupa]]
+- [[Szekspir - Makbet]]
+- [[Molier - Skąpiec]]
 
 
 ## Konteksty

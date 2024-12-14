@@ -2,7 +2,6 @@
 
 ## Lektury
 - [[Szekspir - Makbet]]
-- [[Molier - Skąpiec]]
 - [[Jan Kochanowski -  Treny]]
 - [[Jan Kochanowski - fraszki]]
 - [[Jan Kochanowski - Pieśni]]

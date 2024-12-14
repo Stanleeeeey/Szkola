@@ -8,5 +8,5 @@
   },
   "readableLineLength": true,
   "showLineNumber": false,
-  "spellcheck": false
+  "spellcheck": true
 }

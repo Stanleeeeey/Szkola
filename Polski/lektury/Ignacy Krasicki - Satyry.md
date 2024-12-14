@@ -2,7 +2,7 @@
 
 ## Świat zepsuty
 
-rozpoczyna zbiór *"Satyry"*.
+rozpoczyna zbiór *"Satyry"*. Zmiany w kulturze mogą prowadzić do upadku cywilizacji.
 
 ## Do Króla
 

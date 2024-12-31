@@ -2,3 +2,5 @@
 [[ciśnienie gazu w zamkniętym zbiorniku]]
 [[równanie stanu gazu doskonałego. Równanie Clapeyrona]]
 [[szczególne przemiany gazu doskonałego]]
+[[energia wewnętrzna gazu]]
+[[Pierwsza zasada Termodynamiki]]

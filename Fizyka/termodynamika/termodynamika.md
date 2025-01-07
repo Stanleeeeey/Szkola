@@ -4,3 +4,4 @@
 [[szczególne przemiany gazu doskonałego]]
 [[energia wewnętrzna gazu]]
 [[Pierwsza zasada Termodynamiki]]
+[[ciepło właściwe i molowe]]

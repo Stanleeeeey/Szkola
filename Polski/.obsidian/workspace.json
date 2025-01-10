@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "konteksty/Jonathan Glazer - Strefa interesów.md",
+                "file": "lektury/Albert Camus - Dżuma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jonathan Glazer - Strefa interesów"
+              "title": "Albert Camus - Dżuma"
             }
           }
         ]
@@ -93,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "konteksty/Jonathan Glazer - Strefa interesów.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "lektury/Albert Camus - Dżuma.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jonathan Glazer - Strefa interesów"
+              "title": "Backlinks for Albert Camus - Dżuma"
             }
           },
           {
@@ -164,6 +164,10 @@
   },
   "active": "fc50f809550bf962",
   "lastOpenFiles": [
+    "Pojęcia kluczowe/Egzystencjalizm.md",
+    "lektury/Albert Camus - Dżuma.md",
+    "Pojęcia kluczowe/Absurdyzm.md",
+    "lekcje/Rozprawki.md",
     "konteksty/Jonathan Glazer - Strefa interesów.md"
   ]
 }

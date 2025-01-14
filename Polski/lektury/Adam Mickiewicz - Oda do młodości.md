@@ -1,0 +1,2 @@
+#lektura #romantyzm 
+Wiersz ma formę ody, utrzymany w charakterystycznym wzniosłym stylu, opiewa ideał miłości. Zawiera elementy zarówno twórczości oświeceniowej jak i romantycznej. Podmiot wychwala młodzieńczy zapał, rześkość.

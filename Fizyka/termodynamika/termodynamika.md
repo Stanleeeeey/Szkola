@@ -5,3 +5,4 @@
 [[energia wewnętrzna gazu]]
 [[Pierwsza zasada Termodynamiki]]
 [[ciepło właściwe i molowe]]
+[[silniki cieplne]]

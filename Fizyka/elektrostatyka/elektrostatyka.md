@@ -1,4 +1,8 @@
+## Ładunek
 
+ładunek $q$ jest wielkością skwantowaną będącą wielokrotnością
+
+$$e = 1.6 * 10^{-19}C$$
 
 ## Prawo Coulomba
 

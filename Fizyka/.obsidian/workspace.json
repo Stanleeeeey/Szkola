@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka jądrowa/Fizyka Jądrowa.md",
+                "file": "elektrostatyka/elektrostatyka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizyka Jądrowa"
+              "title": "elektrostatyka"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "233c05eba3833b0f",
   "lastOpenFiles": [
+    "Fizyka jądrowa/Fizyka Jądrowa.md",
+    "Untitled",
     "termodynamika/szczególne przemiany gazu doskonałego.md",
     "termodynamika/silniki cieplne.md",
     "termodynamika/równowaga termodynamiczna, zerowa zasada termodynamiki.md",
@@ -190,7 +192,6 @@
     "termodynamika/ciepło właściwe i molowe.md",
     "termodynamika/termodynamika.md",
     "dualna natura promieniowania i materi/Promieniowanie X.md",
-    "Fizyka jądrowa/Fizyka Jądrowa.md",
     "Fizyka jądrowa",
     "dualna natura promieniowania i materi/Promieniowanie ciał widma.md",
     "elektrostatyka/elektrostatyka.md",
@@ -207,7 +208,6 @@
     "Bryła sztywna/druga zasada dynamiki dla bryły.md",
     "Bryła sztywna/Bryła sztywna.md",
     "Fizyka.md",
-    "Bryła sztywna/iloczyn wektorowy.md",
     "Bryła sztywna",
     "magnetyzm/sketches",
     "magnetyzm",
@@ -216,7 +216,6 @@
     "zjawiska hydrostatyczne/sketches",
     "zjawiska hydrostatyczne",
     "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",
-    "Praca, moc, energia mechaniczna",
     "optyka geometryczna/Untitled.canvas",
     "Untitled.canvas",
     "dualna natura promieniowania i materi/sketches/IMG_E8793.jpg",

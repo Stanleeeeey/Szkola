@@ -32,3 +32,6 @@ zamierzone opóźnienie akcji celu budowy napięcia
 
 # Apostorfa
 bezpośredni zwrot do odbiorcy
+
+## Oksymoron
+zabieg polegający na zestawienie dwóch słów o sprzecznych znaczeniach (np. *"suchego oceanu"*)

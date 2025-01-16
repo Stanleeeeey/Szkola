@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Adam Mickiewicz - Ballady.md",
+                "file": "Środki stylistyczne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adam Mickiewicz - Ballady"
+              "title": "Środki stylistyczne"
+            }
+          },
+          {
+            "id": "0e7ca1b06004cda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Adam Mickiewicz - Sonety Krymskie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adam Mickiewicz - Sonety Krymskie"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,15 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4058e99a8079d6e",
+  "active": "0e7ca1b06004cda8",
   "lastOpenFiles": [
+    "Środki stylistyczne.md",
+    "lektury/Adam Mickiewicz - Sonety Krymskie.md",
+    "epoki/Romantyzm.md",
+    "lektury/Adam Mickiewicz - Ballady.md",
     "lektury/Albert Camus - Dżuma.md",
     "epoki/Współczesność.md",
     "Pojęcia kluczowe/Powieść paraboliczna.md",
     "**Powieść paraboliczna**.md",
     "lektury/Juliusz Słowacki - Kordian.md",
-    "epoki/Romantyzm.md",
-    "lektury/Adam Mickiewicz - Ballady.md",
     "lektury/Adam Mickiewicz - Oda do młodości.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
     "Pojęcia kluczowe/Winkelriedyzm.md",

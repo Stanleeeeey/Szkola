@@ -48,8 +48,30 @@ $$^A_ZX \rightarrow ^A_ZX + \gamma$$
 	pozbywa się części energii
 
 
-| promieniowanie | cechy                   |
-| -------------- | ----------------------- |
-| $\gamma$       | najbardziej przenikliwe |
-| $\alpha$       |                         |
-| $\beta$        |                         |
+| promieniowanie | cechy                                           |
+| -------------- | ----------------------------------------------- |
+| $\gamma$       | najbardziej przenikliwe, nie mogą być odchylane |
+| $\alpha$       | najmniej przenikliwe                            |
+| $\beta$        |                                                 |
+## Prawo rozpadu
+
+$N_0$ - początkowa ilość jąder izotopu
+$N$ - ilość po czasie $t$
+
+$$\frac{dN|}{dt} = -\lambda N $$
+$\lambda$ - stała rozkładu
+
+$$N = N_0 * e^{-\lambda t}$$
+
+Po czasie $T_{1/2}$ (czas połowicznego rozpadu)
+$$\lambda = \frac{ln(2)}{T_{1/2}}$$
+$$N = N_0*2^\frac{-t}{T_{1/2}}$$
+
+## Aktywność promieniotwórcza
+
+$$A(t) = |\frac{\Delta N}{\Delta t} |_{\Delta t \rightarrow 0}$$
+
+$$A(t) = A_0 e^{-\lambda t} = A_0 * 2^{\frac{-t}{T_{1/2}}}$$
+$$[A] = 1Bq$$
+**Jonizacja dołączenie/odłączenie elektronu**
+

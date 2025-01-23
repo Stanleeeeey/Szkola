@@ -75,3 +75,9 @@ $$A(t) = A_0 e^{-\lambda t} = A_0 * 2^{\frac{-t}{T_{1/2}}}$$
 $$[A] = 1Bq$$
 **Jonizacja dołączenie/odłączenie elektronu**
 
+## Energia wiązania jądra atomowego
+
+ $$E_0= mc^2$$
+ $m$ - masa spoczynkowa
+
+$1U = 1/12$ masy **atomu** węgla $= 1.66*10^{-27} kg$

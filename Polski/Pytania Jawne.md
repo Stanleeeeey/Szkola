@@ -69,9 +69,11 @@ kontekst.
 - [ ] Świat ducha a świat rozumu. Omów zagadnienie na podstawie Romantyczności
 Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
-- [ ] Jakie znaczenie dla człowieka ma przyroda? Omów zagadnienie na podstawie
+- [x] Jakie znaczenie dla człowieka ma przyroda? Omów zagadnienie na podstawie
 znanych Ci ballad Adama Mickiewicza. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
+	**Teza**: Przyroda ma kluczowe znaczenie, bo wyznacza sprawiedliwość. 
+	**Odwołania**: Świtezianka zamiana łowcy w drzewo. Balladyna i ukaranie tytułowej bohaterki. Jurassic Park książka. 
 ## Adam Mickiewicz, Dziady część III
 
 - [x] **Losy młodzieży polskiej pod zaborami. Omów zagadnienie na podstawie Dziadów

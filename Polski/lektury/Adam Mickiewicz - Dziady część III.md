@@ -6,11 +6,11 @@ Może być traktowane jako powieść historyczna oparta na **procesie filomatów
 ## Bohaterowie
 - Konrad/Gustaw
 - Ks. Piotr
-- Pelikan - rektor Uniwersytetu Wileńskiego
+- Pelikan - rektor Uniwersytetu Wileńskiego, inspirowany ojczymem Słowackiego
 - Doktor - lekarz współpracujący z caratem
 - towarzystwo stolikowe
 - towarzystwo przy drzwiach
-- 
+
 ## Geneza
 Napisana w Dreźnie  1832 roku po upadku powstania listopadowego. 
 ## Sen Nowosilcowa

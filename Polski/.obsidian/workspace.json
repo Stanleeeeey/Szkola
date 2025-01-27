@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18b5dcb7ea522ed9",
+        "id": "0e823d4b8f47bdbf",
         "type": "tabs",
         "children": [
           {
-            "id": "ef936ce5799f86e1",
+            "id": "7d51ad7b2ed50220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Juliusz Słowacki - Kordian.md",
+                "file": "Pytania Jawne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Juliusz Słowacki - Kordian"
+              "title": "Pytania Jawne"
             }
           }
         ]
@@ -162,11 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef936ce5799f86e1",
+  "active": "7d51ad7b2ed50220",
   "lastOpenFiles": [
+    "lektury/Adam Mickiewicz - Ballady.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
+    "Pojęcia kluczowe/Winkelriedyzm.md",
     "lektury/Adam Mickiewicz - Konrad Wallenrod.md",
+    "obrazy/Pasted image 20240921120348.png",
     "epoki/Romantyzm.md",
+    "lektury/Juliusz Słowacki - Kordian.md",
     "Pytania Jawne.md",
     "lektury/Jan Kochanowski -  Treny.md",
     "lekcje/Untitled.md",
@@ -174,14 +178,11 @@
     "Pojęcia kluczowe/Bajka.md",
     "lektury/Adam Mickiewicz - Sonety Krymskie.md",
     "Środki stylistyczne.md",
-    "lektury/Adam Mickiewicz - Ballady.md",
     "lektury/Albert Camus - Dżuma.md",
     "epoki/Współczesność.md",
     "Pojęcia kluczowe/Powieść paraboliczna.md",
     "**Powieść paraboliczna**.md",
-    "lektury/Juliusz Słowacki - Kordian.md",
     "lektury/Adam Mickiewicz - Oda do młodości.md",
-    "Pojęcia kluczowe/Winkelriedyzm.md",
     "lektury/Homer Iliada - fragmenty.md",
     "Pojęcia kluczowe/Egzystencjalizm.md",
     "Pojęcia kluczowe/Absurdyzm.md",

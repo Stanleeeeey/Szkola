@@ -2,7 +2,7 @@
 
 losy młodzieży charakteryzuję cierpienie i bunt wobec zaborców.
 
-Może być traktowane jako powieść historyczna oparta na **procesie filomatów i filaretów**.
+Może być traktowane jako powieść historyczna oparta na **procesie filomatów i filaretów** w 1823.
 ## Bohaterowie
 - Konrad/Gustaw
 - Ks. Piotr
@@ -26,5 +26,8 @@ Cierpienie ma sens doskonalący i zbawczy.
 | młody                                     | starszy           |
 
 ## Widzenie ks. Piotra
+
+Zaborcy są zestawieni z oprawcami. Droga w cierniowej koronie. Car jako Herod, Nowosilcow pomocnikiem, a młodzież polska niewiniątkami. Żołdak moskal rani bok, nawiązanie do przebicia włócznią Chrystusa.
+
 ## Konteksty
 - Kordian

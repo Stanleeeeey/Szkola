@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "8258322fbe4125a4",
+    "id": "3944d06aecc4e628",
     "type": "split",
     "children": [
       {
-        "id": "dab82b5b5d8abc09",
+        "id": "3313a105058a6d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d7f3a312edab54",
+            "id": "68cfc3a438c87efc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "termodynamika/termodynamika.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "termodynamika"
-            }
-          },
-          {
-            "id": "233c05eba3833b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka jądrowa/Fizyka Jądrowa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fizyka Jądrowa"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e33234781b73974f",
+    "id": "cde73c68a945944c",
     "type": "split",
     "children": [
       {
-        "id": "41ec6228c06820e8",
+        "id": "9a6fb553699eba8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3732a0079f540c9b",
+            "id": "0b6855e03ee6343e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +43,12 @@
             }
           },
           {
-            "id": "e69d3b400235e063",
+            "id": "fafe8fd7ec555eee",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "promieniowanie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +60,7 @@
             }
           },
           {
-            "id": "98224aee006c7bcb",
+            "id": "76c8bf056ac73045",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "4e226c91a2f07895",
+    "id": "2d29e2c37b9a8c61",
     "type": "split",
     "children": [
       {
-        "id": "4466dc56812d745d",
+        "id": "60a2bc2e6174d6d2",
         "type": "tabs",
         "children": [
           {
-            "id": "732691c0ab67631f",
+            "id": "df1afc1684b262a0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prawo Archimedesa"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2b6a322849ed34a7",
+            "id": "d9e32529492416e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prawo Archimedesa"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a89cf4ebba35a2e6",
+            "id": "1d12613032c0a883",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +128,13 @@
             }
           },
           {
-            "id": "9e95710f19eb7fce",
+            "id": "d60779c224674a7a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zjawiska hydrostatyczne/Prawo Archimedesa.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Prawo Archimedesa"
+              "title": "Outline"
             }
           }
         ]
@@ -178,49 +155,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "233c05eba3833b0f",
-  "lastOpenFiles": [
-    "elektrostatyka/elektrostatyka.md",
-    "Fizyka jądrowa/Fizyka Jądrowa.md",
-    "Untitled",
-    "termodynamika/szczególne przemiany gazu doskonałego.md",
-    "termodynamika/silniki cieplne.md",
-    "termodynamika/równowaga termodynamiczna, zerowa zasada termodynamiki.md",
-    "termodynamika/równanie stanu gazu doskonałego. Równanie Clapeyrona.md",
-    "termodynamika/Pierwsza zasada Termodynamiki.md",
-    "termodynamika/energia wewnętrzna gazu.md",
-    "termodynamika/ciśnienie gazu w zamkniętym zbiorniku.md",
-    "termodynamika/ciepło właściwe i molowe.md",
-    "termodynamika/termodynamika.md",
-    "dualna natura promieniowania i materi/Promieniowanie X.md",
-    "Fizyka jądrowa",
-    "dualna natura promieniowania i materi/Promieniowanie ciał widma.md",
-    "termodynamika",
-    "dualna natura promieniowania i materi/Fale materii.md",
-    "dualna natura promieniowania i materi/model atomowy wodoru Bohra.md",
-    "dualna natura promieniowania i materi/Model wodoru Bohra.md",
-    "dualna natura promieniowania i materi/polaryzacja światła.md",
-    "dualna natura promieniowania i materi/Siatka dyfrakcyjna.md",
-    "dualna natura promieniowania i materi/Zdolność rozdzielcza przyrządów optycznych.md",
-    "dualna natura promieniowania i materi/Zjawisko fotoelektryczne zewnętrzne.md",
-    "dualna natura promieniowania i materi/Dualna natura promieniowania i materii.md",
-    "Bryła sztywna/ruch obrotowy bryły sztywnej.md",
-    "Bryła sztywna/druga zasada dynamiki dla bryły.md",
-    "Bryła sztywna/Bryła sztywna.md",
-    "Fizyka.md",
-    "Bryła sztywna",
-    "magnetyzm/sketches",
-    "magnetyzm",
-    "elektrostatyka/sketches",
-    "elektrostatyka",
-    "zjawiska hydrostatyczne/sketches",
-    "zjawiska hydrostatyczne",
-    "dualna natura promieniowania i materi/sketches/IMG_E8792 1.jpg",
-    "optyka geometryczna/Untitled.canvas",
-    "Untitled.canvas",
-    "dualna natura promieniowania i materi/sketches/IMG_E8793.jpg",
-    "IMG_E8792.jpg",
-    "IMG_8792 1.jpg",
-    "IMG_8792.jpg"
-  ]
+  "active": "68cfc3a438c87efc",
+  "lastOpenFiles": []
 }

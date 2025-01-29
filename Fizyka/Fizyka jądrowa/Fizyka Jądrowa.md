@@ -81,3 +81,15 @@ $$[A] = 1Bq$$
  $m$ - masa spoczynkowa
 
 $1U = 1/12$ masy **atomu** węgla $= 1.66*10^{-27} kg$
+
+$$u = 931.5 MeV * c^{-2}$$
+
+dla $^A_ZX$
+$$\Delta m = Z*m_p + (A-Z)*m_w-m_j$$
+
+## Bilans mas i energii w reakcji jądrowej
+
+**Typy reakcji**
+- egzoenergetyczne - wydalają ciepło
+- endoenergetyczne - pobierają ciepło
+

@@ -54,3 +54,13 @@ Wrażliwość jako akt odwagi o nieprzewidywalnych konsekwencjach:
 Teza: przyczynia się do ratunku czyjegoś życia, kosztem cierpienia
 - ponieważ jest aktem odwagi w sytuacjach ekstremalnych sytuacjach. 
 - ponieważ prowadzi do altruizmu, poświęcenia
+
+Jak obraz relacji *ojciec - syn* znajdujemy w sztuce? W odpowiedzi na pytanie odwołaj się do plakatu promującego konferencje i wybranego utworu literackiego lub tekstu kultury.
+**Teza**: relacja ojca z synem jest przedstawiana jako relacja szczególna
+- bo plakat odbicie przyszłego chłopca identyczne z tym jego ojca i jego przeszłością
+- bo jest relacją która pozostaje przez całe życie, niezależnie od naszych decyzji
+	- Tarrou i jego ojciec
+	- Tyrion i Tywin Lannister
+	- Harpagon i jego syn
+	- Kreon i jego syn
+	- 

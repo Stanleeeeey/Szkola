@@ -1,4 +1,4 @@
-#lektura #współczesność 
+t#lektura #współczesność 
 ## Geneza
 
 Akcja: lata 40. dwudziestego wieku

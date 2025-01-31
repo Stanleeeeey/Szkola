@@ -93,3 +93,8 @@ $$\Delta m = Z*m_p + (A-Z)*m_w-m_j$$
 - egzoenergetyczne - wydalają ciepło
 - endoenergetyczne - pobierają ciepło
 
+## Reakcja kreacji i anihilacji
+**anihilacja**
+	spotkanie elektronu i pozytron
+$$^0_{-1}e + ^0_1e \rightarrow 2\gamma$$
+	

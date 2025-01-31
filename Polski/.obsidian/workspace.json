@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Zadania maturalne"
             }
+          },
+          {
+            "id": "46385aa935ce1074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lektury/Albert Camus - Dżuma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Albert Camus - Dżuma"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,12 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d51ad7b2ed50220",
+  "active": "46385aa935ce1074",
   "lastOpenFiles": [
-    "Omówienia lektur.md",
-    "lektury/Albert Camus - Dżuma.md",
-    "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
+    "lektury/Albert Camus - Dżuma.md",
+    "lekcje/Zadania maturalne.md",
+    "Omówienia lektur.md",
+    "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
     "Pytania Jawne.md",
     "lektury/Adam Mickiewicz - Ballady.md",
     "Pojęcia kluczowe/Winkelriedyzm.md",

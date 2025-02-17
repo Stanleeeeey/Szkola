@@ -56,6 +56,7 @@ Teza: przyczynia się do ratunku czyjegoś życia, kosztem cierpienia
 - ponieważ prowadzi do altruizmu, poświęcenia
 
 Jak obraz relacji *ojciec - syn* znajdujemy w sztuce? W odpowiedzi na pytanie odwołaj się do plakatu promującego konferencje i wybranego utworu literackiego lub tekstu kultury.
+
 **Teza**: relacja ojca z synem jest przedstawiana jako relacja szczególna
 - bo plakat odbicie przyszłego chłopca identyczne z tym jego ojca i jego przeszłością
 - bo jest relacją która pozostaje przez całe życie, niezależnie od naszych decyzji
@@ -63,4 +64,26 @@ Jak obraz relacji *ojciec - syn* znajdujemy w sztuce? W odpowiedzi na pytanie od
 	- Tyrion i Tywin Lannister
 	- Harpagon i jego syn
 	- Kreon i jego syn
-	- 
+
+## Fakultet 31.01.2025
+
+**wyrażanie opinii**:
+- ja to bardzo lubię
+- bardo fajnie
+- mam to w d*
+- elegancko zadowolony
+
+**kultura indywidualizmu**
+
+jest to język perswazyjny, opinio twórczy
+
+Przemiany języka
+- angielszczyzna
+- social media
+- kultura indywidualizmu
+ja to bardzo lubię
+bardo fajnie
+
+**język ludzki**
+- arbitralność
+- kreacyjność

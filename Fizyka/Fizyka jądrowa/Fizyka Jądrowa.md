@@ -97,4 +97,18 @@ $$\Delta m = Z*m_p + (A-Z)*m_w-m_j$$
 **anihilacja**
 	spotkanie elektronu i pozytron
 $$^0_{-1}e + ^0_1e \rightarrow 2\gamma$$
-	
+## Reakcja rozszczepienia 
+
+*$1u = 931.5 MeV*c^{-2}$*
+
+$$\Delta E = \Delta m * c^2$$
+## Energetyka jądrowa
+
+**Zagadnienia**
+- Budowa i działanie reaktora
+	- pręty paliwowe (tam jest wzbogacony uran)
+	- moderator (spowalnia neutrony)
+	- pręty regulacyjne (regulują ilość rozszczepień na sekundę)
+	- pręty bezpieczeństwa (wsuwane zatrzymują reakcje)
+- bomba atomowa
+	- łączy się pare mas tak by przekroczyły masę krytyczną 

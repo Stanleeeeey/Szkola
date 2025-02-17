@@ -30,8 +30,15 @@
 
 zamierzone opóźnienie akcji celu budowy napięcia
 
-# Apostorfa
+# Apostrofa
 bezpośredni zwrot do odbiorcy
 
 ## Oksymoron
 zabieg polegający na zestawienie dwóch słów o sprzecznych znaczeniach (np. *"suchego oceanu"*)
+
+## Zapożyczenia
+powody
+- dostosowanie do odbiorcy
+- moda językowa
+**przykłady**: kontent, format (język mediów)
+może też przenikać gramatyka

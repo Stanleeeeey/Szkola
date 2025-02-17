@@ -17,3 +17,9 @@
 - określenie sposobu
 - związki frazeologiczne
 - odwołanie się do istotnych wartości dla odbiorców
+- przysłówki wzmacniające przekaz
+
+Polega na pozytywnym przekonywaniu
+
+**przekaz wizualny może wzmacniać przekaz**
+

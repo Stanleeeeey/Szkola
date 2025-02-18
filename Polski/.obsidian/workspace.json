@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lekcje/Zadania maturalne.md",
+                "file": "lektury/George Orwell - 1984.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zadania maturalne"
+              "title": "George Orwell - 1984"
             }
           }
         ],
@@ -178,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57880a4f231895c6",
+  "active": "6a23801a745aa2d2",
   "lastOpenFiles": [
-    "Funkcje języka.md",
+    "epoki/Współczesność.md",
+    "lektury/George Orwell - 1984.md",
     "lekcje/Zadania maturalne.md",
+    "Funkcje języka.md",
     "lekcje/Untitled.md",
     "Środki stylistyczne.md",
     "lektury/Albert Camus - Dżuma.md",
@@ -199,13 +201,11 @@
     "Ćwiczenia z pisania rozprawki.md",
     "Pojęcia kluczowe/Bajka.md",
     "lektury/Adam Mickiewicz - Sonety Krymskie.md",
-    "epoki/Współczesność.md",
     "Pojęcia kluczowe/Powieść paraboliczna.md",
     "**Powieść paraboliczna**.md",
     "lektury/Adam Mickiewicz - Oda do młodości.md",
     "lektury/Homer Iliada - fragmenty.md",
     "Pojęcia kluczowe/Egzystencjalizm.md",
-    "Pojęcia kluczowe/Absurdyzm.md",
-    "lekcje/Rozprawki.md"
+    "Pojęcia kluczowe/Absurdyzm.md"
   ]
 }

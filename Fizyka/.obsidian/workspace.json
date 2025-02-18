@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Fizyka Jądrowa"
             }
+          },
+          {
+            "id": "b241ad479718e346",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68cfc3a438c87efc",
+  "active": "b241ad479718e346",
   "lastOpenFiles": []
 }

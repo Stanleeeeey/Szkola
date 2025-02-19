@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46385aa935ce1074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Środki stylistyczne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Środki stylistyczne"
-            }
-          },
-          {
             "id": "57880a4f231895c6",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "George Orwell - 1984"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,19 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a23801a745aa2d2",
+  "active": "57880a4f231895c6",
   "lastOpenFiles": [
     "epoki/Współczesność.md",
-    "lektury/George Orwell - 1984.md",
     "lekcje/Zadania maturalne.md",
-    "Funkcje języka.md",
+    "lekcje/Rozprawki.md",
     "lekcje/Untitled.md",
+    "Pytania Jawne.md",
+    "lektury/George Orwell - 1984.md",
+    "Funkcje języka.md",
     "Środki stylistyczne.md",
     "lektury/Albert Camus - Dżuma.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
     "Omówienia lektur.md",
     "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
-    "Pytania Jawne.md",
     "lektury/Adam Mickiewicz - Ballady.md",
     "Pojęcia kluczowe/Winkelriedyzm.md",
     "lektury/Adam Mickiewicz - Konrad Wallenrod.md",
@@ -205,7 +191,6 @@
     "**Powieść paraboliczna**.md",
     "lektury/Adam Mickiewicz - Oda do młodości.md",
     "lektury/Homer Iliada - fragmenty.md",
-    "Pojęcia kluczowe/Egzystencjalizm.md",
-    "Pojęcia kluczowe/Absurdyzm.md"
+    "Pojęcia kluczowe/Egzystencjalizm.md"
   ]
 }

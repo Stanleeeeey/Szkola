@@ -112,3 +112,15 @@ $$\Delta E = \Delta m * c^2$$
 	- pręty bezpieczeństwa (wsuwane zatrzymują reakcje)
 - bomba atomowa
 	- łączy się pare mas tak by przekroczyły masę krytyczną 
+
+## Reakcje termojądrowe
+- **cykl p-p**
+	$$^1_1H + ^1_1H -\rightarrow ^2_1H + ^0_`e+\nu_e$$
+	$$^2_1H + ^1_1H \rightarrow ^3_2He + \gamma$$
+	$$2* ^3_2He \rightarrow ^4_2He + 2*^1_1H$$
+	sumarycznie
+	$$4^1_1H \rightarrow ^4_2He + 2^0_1e + 28,4 MeV$$
+- **cykl CNO**
+	sumarycznie tak samo inne składowe
+	
+## Diagram Hertzsprunga-Russella

@@ -66,3 +66,8 @@ Zacieranie granicy między pojęciami ważnymi z punktu widzenia etyki. Przykła
 - miłości
 - obfitości
 Próba wypaczenia znaczeń słów
+
+
+1. Dlaczego programy typu Big brother w których widzowie mogą nie tylko obserwować, ale także mieć wpływ na ich losy cieszą się dużą popularnością?
+2. Dla jakich ludzi są te programy?
+

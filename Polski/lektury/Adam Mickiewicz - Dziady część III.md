@@ -29,5 +29,8 @@ Cierpienie ma sens doskonalący i zbawczy.
 
 Zaborcy są zestawieni z oprawcami. Droga w cierniowej koronie. Car jako Herod, Nowosilcow pomocnikiem, a młodzież polska niewiniątkami. Żołdak moskal rani bok, nawiązanie do przebicia włócznią Chrystusa.
 
+## Bunt Konrada
+ jest związany z bezsilnością
+
 ## Konteksty
 - Kordian

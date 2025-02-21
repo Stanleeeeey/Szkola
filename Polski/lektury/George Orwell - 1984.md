@@ -31,6 +31,8 @@ Język ten redukuje ilość słów do opisu zmuszając użytkowników do przedst
  - Syme - zajmuję się słownikiem nowomowy
 - Wielki brat
 - Prole - ludzi których traktuję się jak podludzi tworzących większość państwa
+- Parson
+- Goldstein - główny wróg partii.
 ## 3. Pojęcia
 
 - **angsoc** - angielski socjalizm, nazwa ustroju
@@ -46,6 +48,7 @@ Język ten redukuje ilość słów do opisu zmuszając użytkowników do przedst
 - gmachy ministerstw górują nad miastem
 ## 5. Bohater
 
+**Winston Smith**
 - zaniedbany, nie jest zdrowy 
 ## 6. System
 
@@ -67,7 +70,10 @@ Zacieranie granicy między pojęciami ważnymi z punktu widzenia etyki. Przykła
 - obfitości
 Próba wypaczenia znaczeń słów
 
+**ewaporacja** - całkowite wymazanie osoby z systemu, usunięcie nie tylko osoby ale też wszystkich o niej informacji.
 
-1. Dlaczego programy typu Big brother w których widzowie mogą nie tylko obserwować, ale także mieć wpływ na ich losy cieszą się dużą popularnością?
-2. Dla jakich ludzi są te programy?
+**myślozbrodnia** - myślenie niezgodne z linią partii. 
 
+**dwójmyślenie** - jednoczesne trzymanie dwóch sprzecznych poglądów i wierzenie w oba (*"WOJNA TO POKÓJ"*)
+
+*"O ile nie zostaną uświadomieni, nigdy się nie zbuntują, ale dopóki się nie zbuntują, nie staną się świadomi"*

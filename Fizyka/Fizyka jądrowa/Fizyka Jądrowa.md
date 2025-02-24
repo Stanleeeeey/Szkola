@@ -87,6 +87,9 @@ $$u = 931.5 MeV * c^{-2}$$
 dla $^A_ZX$
 $$\Delta m = Z*m_p + (A-Z)*m_w-m_j$$
 
+
+energie wiązania jest liczona na nukleon
+
 ## Bilans mas i energii w reakcji jądrowej
 
 **Typy reakcji**
@@ -124,3 +127,4 @@ $$\Delta E = \Delta m * c^2$$
 	sumarycznie tak samo inne składowe
 	
 ## Diagram Hertzsprunga-Russella
+

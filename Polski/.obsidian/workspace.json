@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Pytania Jawne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pytania Jawne"
+            }
+          },
+          {
+            "id": "828fac7808944a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "lektury/George Orwell - 1984.md",
                 "mode": "source",
                 "source": false
@@ -165,16 +179,16 @@
   },
   "active": "57880a4f231895c6",
   "lastOpenFiles": [
+    "lektury/George Orwell - 1984.md",
+    "Pytania Jawne.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
     "epoki/Romantyzm.md",
     "lektury/Adam Mickiewicz - Ballady.md",
     "epoki/Renesans.md",
-    "lektury/George Orwell - 1984.md",
     "epoki/Współczesność.md",
     "lekcje/Zadania maturalne.md",
     "lekcje/Rozprawki.md",
     "lekcje/Untitled.md",
-    "Pytania Jawne.md",
     "Funkcje języka.md",
     "Środki stylistyczne.md",
     "lektury/Albert Camus - Dżuma.md",

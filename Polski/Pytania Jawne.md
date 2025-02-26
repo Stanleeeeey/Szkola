@@ -240,21 +240,32 @@ Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 Dżumy Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ## George Orwell, Rok 1984
 
-- [ ] Relacje międzyludzkie w rzeczywistości państwa totalitarnego. Omów zagadnienie na
+- [x] Relacje międzyludzkie w rzeczywistości państwa totalitarnego. Omów zagadnienie na
 podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
+**Teza**: Relacje międzyludzkie są zaburzone, wypaczone
+**Odwołania**: 1984 (Parson i jego dzieci, Winston i jego małżeństwo), Zdążyć przed Panem Bogiem
 
-- [ ] Jak zachować wolność w państwie totalitarnym? Omów zagadnienie na podstawie
+- [x] Jak zachować wolność w państwie totalitarnym? Omów zagadnienie na podstawie
 utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany
 kontekst.
 
-- [ ] Znaczenie propagandy w państwie totalitarnym. Omów zagadnienie na podstawie
+**Teza:** Zachowanie wolności jest niemożliwe
+**Odwołania:** (Areszt Winstona i Julii, Julia jako narzędzie partii, Misza Kostylew (sprzeciw wobec budowy totalitarnego państwa) [[Gustaw Herling-Grudziński -  Inny świat]])
+
+- [x] Znaczenie propagandy w państwie totalitarnym. Omów zagadnienie na podstawie
 utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany
 kontekst.
+
+**Teza**: Jest wielkie
+**Odwołanie:** Rok 1984 plakaty Wielkiego Brata, Korea Północna, Przedwiośnie - Antoni Lulek, Inny Świat - zakłamanie prawdy o obozach.
 
 - [ ] Nowomowa jako sposób na ograniczenie wolności człowieka. Omów zagadnienie na
 podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
+
+**Teza**: Nowomowa jest sposobem na ograniczenie wolności 
+**Odwołania**: 1984, zmniejszanie się zasobu słów we współczesnych językach
 ## Sławomir Mrożek, Tango
 
 - [ ] Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga

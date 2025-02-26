@@ -34,6 +34,7 @@ Język ten redukuje ilość słów do opisu zmuszając użytkowników do przedst
 - Prole - ludzi których traktuję się jak podludzi tworzących większość państwa
 - Parson
 - Goldstein - główny wróg partii.
+- Harrington - sklepikarz, tak na prawdę agent policji myśli
 ## 3. Pojęcia
 
 - **angsoc** - angielski socjalizm, nazwa ustroju
@@ -97,4 +98,13 @@ imię bohaterki jest nawiązaniem do historii *Romea i Julii*
 Pierwsze spotkanie: dwie minuty nienawiści, nienawidzi jej uznaje ją za marionetkę partii.
 
 Julia kryje swoje poglądy pod maską partyjnego purytanizmu. Jest inteligentna. 
+
+Czym była ta relacja?
+- Była aktem politycznym (sprzeciw wobec polityki partii)
+- była wypaczoną miłością (towarzyszy jej lęk strach, koncentracja na cielesności)
+
+Winston był spragniony miłości, po nieudanym związku.
+Julia manifestuję w ten sposób bunt, hedonizm jest sposobem sprzeciwu. 
+
+Julia była nieświadomym narzędziem partii, służy jako "magnes" na tych co myślą inaczej.
 

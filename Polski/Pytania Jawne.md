@@ -82,18 +82,21 @@ kontekst.**
 	**Teza:** Trudne losy młodzieży kształtują ich tożsamość narodową
 	**Odwołania**: Więzienie i przemiana Gustawa w Konrada, współczesna młodzież ukraińska
 
-- [ ] Mesjanizm jako romantyczna idea poświęcenia. Omów zagadnienie na podstawie
+- [x] Mesjanizm jako romantyczna idea poświęcenia. Omów zagadnienie na podstawie
 Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
-
-- [ ] Postawy społeczeństwa polskiego wobec zaborcy. Omów zagadnienie na podstawie
+	**Teza:** Szkodliwa postawa poświecenia (bez walki), bo uczy wierności, uzasadnia je
+	**Odwołania:** Słowacki - Winkelriedyzm poświęcenie, ale w walce.
+- [x] Postawy społeczeństwa polskiego wobec zaborcy. Omów zagadnienie na podstawie
 Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
-
+	**Teza:** Postawy były różne
+	**Odwołania:** Bal u Nowosilcowa - lojalnościowe i wyrażające sprzeciw. Postawy Polaków wobec Komunizmu / okupacji niemieckiej. 
 - [ ] Różne postawy człowieka wobec Boga. Omów zagadnienie na podstawie Dziadów
 części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany
 kontekst.
-
+	**Teza:** Pokazują skomplikowanie relacji z Bogiem
+	**Odwołania:** Konrad i wielka improwizacja, ks. Piotra który się za niego modli.
 - [x] **Jakie prawdy o człowieku ujawniają jego sny albo widzenia? Omów zagadnienie na
 podstawie Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.**
@@ -103,6 +106,8 @@ również wybrany kontekst.**
 - [ ] W jakim celu twórca nawiązuje do motywów biblijnych? Omów zagadnienie na
 podstawie Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
+	**Teza:** Uniwersalizuje swoją wypowiedź
+	**Odwołania:** Ks. Piotr i jego postawa oraz księga Hioba. widzenie księdza Piotra i widzenie Golgoty. Mistrz i Małgorzata 
 ## Bolesław Prus, Lalka
 
 - [ ] Miłość – siła destrukcyjna czy motywująca do działania? Omów zagadnienie na

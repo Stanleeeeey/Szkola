@@ -5,6 +5,7 @@
 2. [[Witold Gombrowicz - Ferdydurke | Charakterystyka]]
 3. [[Witold Gombrowicz - Ferdydurke#3. lekcja polskiego | Lekcja polskiego]]
 4. [[Witold Gombrowicz - Ferdydurke#4. Groteskowy obraz świata w powieści | Groteskowy obraz świata w powieści]]
+5. [[Witold Gombrowicz - Ferdydurke#5. Konteksty | Człowiek wobec presji otoczenia]]
 
 ## 1. Postacie 
 
@@ -47,3 +48,16 @@ Nauczyciel jest wywyższony na katedrze, próbuje uciszyć uczniów.
 
 ## 4. Groteskowy obraz świata w powieści
 
+- Sytuacja Józia - powrót 30-latka do szkoły
+- lekcja polskiego  -pojedynek Bladaczki i Gałkiewicza
+- Bladaczka - jego położenie jest godne pożałowani, a zarazem zabawne. Próba przekonania do przeglądu i jednoczesny brak umiejętności udowodnienia go. Nie chce odpowiedzi chce powtórzenia swoich słów
+- Syfon -wyuczenie formuł nie nauczenie się.
+
+**Po co?**
+- by ciekawie coś w świecie skrytykować
+- by obnażyć, że człowiek funkcjonuje w rzeczywistości pozorów
+
+## 5. Konteksty
+
+- groteska: [[Z punktu widzenia Nocnego stróża]], [[Truman show]]
+- człowiek wobec presji otoczenia: 

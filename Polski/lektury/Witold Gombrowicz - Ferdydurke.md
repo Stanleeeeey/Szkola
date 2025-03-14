@@ -3,6 +3,8 @@
 ## Spis treści
 1. [[Witold Gombrowicz - Ferdydurke#1. Postacie | Postacie]]
 2. [[Witold Gombrowicz - Ferdydurke | Charakterystyka]]
+3. [[Witold Gombrowicz - Ferdydurke#3. lekcja polskiego | Lekcja polskiego]]
+4. [[Witold Gombrowicz - Ferdydurke#4. Groteskowy obraz świata w powieści | Groteskowy obraz świata w powieści]]
 
 ## 1. Postacie 
 
@@ -15,6 +17,8 @@
 - Gałkiewicz - pytanie dlaczego Słowacki wielkim poetą był
 - Kopyrda - ten który nie przejmował się konfliktami klasy
 ## 2. Charakterystyka
+
+Utwór jest [[Groteska | groteską]]
 
 Powieść jest **surrealistyczna**
 
@@ -40,4 +44,6 @@ Szkoła jest czymś w rodzaju więzienia
 ## 3. lekcja polskiego
 
 Nauczyciel jest wywyższony na katedrze, próbuje uciszyć uczniów.
+
+## 4. Groteskowy obraz świata w powieści
 

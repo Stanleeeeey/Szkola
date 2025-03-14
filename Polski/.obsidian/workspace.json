@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e823d4b8f47bdbf",
+        "id": "48fcc5d05dd917b0",
         "type": "tabs",
         "children": [
           {
-            "id": "57880a4f231895c6",
+            "id": "1e8c0876f023d65e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57880a4f231895c6",
+  "active": "1e8c0876f023d65e",
   "lastOpenFiles": [
-    "Pytania Jawne.md",
+    "Pojęcia kluczowe/Groteska.md",
     "lektury/Witold Gombrowicz - Ferdydurke.md",
+    "lektury/Molier - Skąpiec.md",
+    "Pytania Jawne.md",
     "lektury/George Orwell - 1984.md",
     "lektury/Adam Mickiewicz - Dziady część III.md",
     "epoki/Romantyzm.md",
@@ -189,8 +191,6 @@
     "Ćwiczenia z pisania rozprawki.md",
     "Pojęcia kluczowe/Bajka.md",
     "lektury/Adam Mickiewicz - Sonety Krymskie.md",
-    "Pojęcia kluczowe/Powieść paraboliczna.md",
-    "**Powieść paraboliczna**.md",
-    "lektury/Adam Mickiewicz - Oda do młodości.md"
+    "Pojęcia kluczowe/Powieść paraboliczna.md"
   ]
 }

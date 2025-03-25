@@ -276,12 +276,22 @@ również wybrany kontekst.
 - [ ] Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga
 Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
+**Teza**: Bunt jest sprzeciwem wobec istniejącym formom społecznym. Bunt jest wyrazem rozczarowania porządkiem społecznym. Jest wynikiem opresyjnego porządku społecznego. 
+**Odwołania**: Artur i jego bunt przeciwko nowemu oraz bunt rodziców wobec starych norm społecznych. Większy chaos po buncie Artura niż przed. Brak pamięci w domu, brak więzów rodzinnych. Rewolucja francuska, rosyjska, folwark zwierzęcy, Prometeusz, Konrad z Dziadów. 
+
 - [ ] Problem upadku wartości. Omów zagadnienie na podstawie Tanga Sławomira Mrożka.
 W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**: Przyczynną przewrotów, Umożliwia zaistnienie zła, prowadzi do wywyższenia siły 
+**Odwołania**: Edek i jego przejęcie władzy, próba przewrotu przez Artura
 
 - [ ] Normy społeczne – ograniczają człowieka czy porządkują życie? Omów zagadnienie
 na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
+
+**Teza**: Ograniczają
+**Odwołania**: Normą był bunt przeciwko wszystkiemu ale nie systemowi, 1984 normy narzucone przez partie ograniczają wolność jednostki
+
 ## Marek Nowakowski, Górą „Edek”
 
 - [ ] W jakim celu autor nawiązuje w swoim tekście do innego tekstu? Omów zagadnienie

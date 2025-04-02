@@ -92,7 +92,7 @@ Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij równie
 wybrany kontekst.
 	**Teza:** Postawy były różne
 	**Odwołania:** Bal u Nowosilcowa - lojalnościowe i wyrażające sprzeciw. Postawy Polaków wobec Komunizmu / okupacji niemieckiej. 
-- [ ] Różne postawy człowieka wobec Boga. Omów zagadnienie na podstawie Dziadów
+- [x] Różne postawy człowieka wobec Boga. Omów zagadnienie na podstawie Dziadów
 części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany
 kontekst.
 	**Teza:** Pokazują skomplikowanie relacji z Bogiem
@@ -103,7 +103,7 @@ również wybrany kontekst.**
 	**Teza**: Sny ujawniają skryte o człowieku prawdy
 	**Odwołania**: Nowosilcow jego strach przed carem i marzenia o władzy, Łęcka i jej sen o Apollu - niegotowość na poważny związek, Raskolnikow sen o kobyłce - wyprawa na cmentarz i jego dobre wspomnienia związane z cerkwią i wiarą, tren XIX poeta widzi matkę z dzieckiem.
 
-- [ ] W jakim celu twórca nawiązuje do motywów biblijnych? Omów zagadnienie na
+- [x] W jakim celu twórca nawiązuje do motywów biblijnych? Omów zagadnienie na
 podstawie Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
 	**Teza:** Uniwersalizuje swoją wypowiedź
@@ -265,7 +265,7 @@ kontekst.
 **Teza**: Jest wielkie
 **Odwołanie:** Rok 1984 plakaty Wielkiego Brata, Korea Północna, Przedwiośnie - Antoni Lulek, Inny Świat - zakłamanie prawdy o obozach.
 
-- [ ] Nowomowa jako sposób na ograniczenie wolności człowieka. Omów zagadnienie na
+- [x] Nowomowa jako sposób na ograniczenie wolności człowieka. Omów zagadnienie na
 podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
 
@@ -273,19 +273,19 @@ również wybrany kontekst.
 **Odwołania**: 1984, zmniejszanie się zasobu słów we współczesnych językach
 ## Sławomir Mrożek, Tango
 
-- [ ] Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga
+- [x] Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga
 Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**: Bunt jest sprzeciwem wobec istniejącym formom społecznym. Bunt jest wyrazem rozczarowania porządkiem społecznym. Jest wynikiem opresyjnego porządku społecznego. 
 **Odwołania**: Artur i jego bunt przeciwko nowemu oraz bunt rodziców wobec starych norm społecznych. Większy chaos po buncie Artura niż przed. Brak pamięci w domu, brak więzów rodzinnych. Rewolucja francuska, rosyjska, folwark zwierzęcy, Prometeusz, Konrad z Dziadów. 
 
-- [ ] Problem upadku wartości. Omów zagadnienie na podstawie Tanga Sławomira Mrożka.
+- [x] Problem upadku wartości. Omów zagadnienie na podstawie Tanga Sławomira Mrożka.
 W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**: Przyczynną przewrotów, Umożliwia zaistnienie zła, prowadzi do wywyższenia siły 
 **Odwołania**: Edek i jego przejęcie władzy, próba przewrotu przez Artura
 
-- [ ] Normy społeczne – ograniczają człowieka czy porządkują życie? Omów zagadnienie
+- [x] Normy społeczne – ograniczają człowieka czy porządkują życie? Omów zagadnienie
 na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
 
@@ -297,6 +297,9 @@ wybrany kontekst.
 - [ ] W jakim celu autor nawiązuje w swoim tekście do innego tekstu? Omów zagadnienie
 na podstawie utworu Górą „Edek” Marka Nowakowskiego. W swojej odpowiedzi
 uwzględnij również wybrany kontekst.
+
+**Teza:** Aby nawiązać dialog/dyskusję z ideą zawarta w tekście pierwotnym. By pokazać uniwersalizm idei/postawy. Dać klucz do interpretacji.  By pokazać, że literatura to skarbnica źródeł/pomysłów/objaśnień.
+**Odwołania:** Plotka o weselu i "Wesele". Inny świat i Dostojewski. Tango i genesis
 ## Andrzej Stasiuk, Miejsce
 
 - [ ] Jaką wartość dla człowieka ma pamięć o przeszłości? Omów zagadnienie na

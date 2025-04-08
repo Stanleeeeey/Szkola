@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "48fcc5d05dd917b0",
+        "id": "1e8ca54887c78da8",
         "type": "tabs",
         "children": [
           {
-            "id": "80b5e70ad698e044",
+            "id": "502bb61fb6c2e415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Marek Nowakowski - Górą Edek.md",
+                "file": "lektury/Andrzej Stasiuk - Miejsce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marek Nowakowski - Górą Edek"
+              "title": "Andrzej Stasiuk - Miejsce"
             }
           },
           {
-            "id": "57f7e9c1a0960a76",
+            "id": "7ab6d8be1c887a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Pytania Jawne"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57f7e9c1a0960a76",
+  "active": "502bb61fb6c2e415",
   "lastOpenFiles": [
-    "lektury/Marek Nowakowski - Górą Edek.md",
     "Pytania Jawne.md",
+    "lektury/Andrzej Stasiuk - Miejsce.md",
+    "lektury/Marek Nowakowski - Górą Edek.md",
     "lektury/Sławomir Mrożek  - Tango.md",
     "lektury/Witold Gombrowicz - Ferdydurke.md",
     "konteksty/Z punktu widzenia Nocnego stróża.md",
@@ -205,7 +205,6 @@
     "lektury/Adam Mickiewicz - Konrad Wallenrod.md",
     "obrazy/Pasted image 20240921120348.png",
     "lektury/Juliusz Słowacki - Kordian.md",
-    "lektury/Jan Kochanowski -  Treny.md",
-    "Ćwiczenia z pisania rozprawki.md"
+    "lektury/Jan Kochanowski -  Treny.md"
   ]
 }

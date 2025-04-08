@@ -305,6 +305,10 @@ uwzględnij również wybrany kontekst.
 - [ ] Jaką wartość dla człowieka ma pamięć o przeszłości? Omów zagadnienie na
 podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
+
+**Teza:** znikomą, ogromną, kluczową
+**Odwołania**: Pamięć jest powiązana z miejscami, miejsca tworzą ją. Rekonstrukcja synagogi w Polinie. Miejsce nie jest fizyczne to zbiór wspomnień je zawierające, przenosząc do muzeum niszczymy miejsce, zostawiamy skorupę. 
+
 ## Olga Tokarczuk, Profesor Andrews w Warszawie
 
 - [ ] Stan wojenny z perspektywy obcokrajowca. Omów zagadnienie na podstawie utworu

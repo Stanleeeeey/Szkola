@@ -302,18 +302,21 @@ uwzględnij również wybrany kontekst.
 **Odwołania:** Plotka o weselu i "Wesele". Inny świat i Dostojewski. Tango i genesis
 ## Andrzej Stasiuk, Miejsce
 
-- [ ] Jaką wartość dla człowieka ma pamięć o przeszłości? Omów zagadnienie na
+- [x] Jaką wartość dla człowieka ma pamięć o przeszłości? Omów zagadnienie na
 podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również
 wybrany kontekst.
 
 **Teza:** znikomą, ogromną, kluczową
-**Odwołania**: Pamięć jest powiązana z miejscami, miejsca tworzą ją. Rekonstrukcja synagogi w Polinie. Miejsce nie jest fizyczne to zbiór wspomnień je zawierające, przenosząc do muzeum niszczymy miejsce, zostawiamy skorupę. 
+**Odwołania**: Pamięć jest powiązana z miejscami, miejsca tworzą ją. Rekonstrukcja synagogi w Polinie. Skazany na Shawshank Brux który się powiesił po wyjściu z więzienia Miejsce nie jest fizyczne to zbiór wspomnień je zawierające, przenosząc do muzeum niszczymy miejsce, zostawiamy skorupę. 
 
 ## Olga Tokarczuk, Profesor Andrews w Warszawie
 
 - [ ] Stan wojenny z perspektywy obcokrajowca. Omów zagadnienie na podstawie utworu
 Profesor Andrews w Warszawie Olgi Tokarczuk. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
+
+**Teza:** Jest czymś bardzo trudnym, Stan wojenny jako czas próby, jako coś niezrozumiałego
+**Odwołania:** 1984 relacje międzyludzkie. Fotografia stan wojenny + czas apokalipsy
 ## Ryszard Kapuściński, Podróże z Herodotem (fragmenty)
 
 - [ ] Czym dla człowieka może być podróżowanie? Omów zagadnienie na podstawie

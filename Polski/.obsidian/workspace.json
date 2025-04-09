@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "502bb61fb6c2e415",
+            "id": "cb5ac1bea84eee41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lektury/Andrzej Stasiuk - Miejsce.md",
+                "file": "lektury/Olga Tokarczuk -  Profesor Andrews w Warszawie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andrzej Stasiuk - Miejsce"
+              "title": "Olga Tokarczuk -  Profesor Andrews w Warszawie"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Pytania Jawne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "502bb61fb6c2e415",
+  "active": "7ab6d8be1c887a38",
   "lastOpenFiles": [
+    "lektury/Olga Tokarczuk -  Profesor Andrews w Warszawie.md",
     "Pytania Jawne.md",
+    "Środki stylistyczne.md",
     "lektury/Andrzej Stasiuk - Miejsce.md",
     "lektury/Marek Nowakowski - Górą Edek.md",
     "lektury/Sławomir Mrożek  - Tango.md",
@@ -197,14 +200,12 @@
     "lekcje/Rozprawki.md",
     "lekcje/Untitled.md",
     "Funkcje języka.md",
-    "Środki stylistyczne.md",
     "lektury/Albert Camus - Dżuma.md",
     "Omówienia lektur.md",
     "Pojęcia kluczowe/Opowieść Hagiograficznej.md",
     "Pojęcia kluczowe/Winkelriedyzm.md",
     "lektury/Adam Mickiewicz - Konrad Wallenrod.md",
     "obrazy/Pasted image 20240921120348.png",
-    "lektury/Juliusz Słowacki - Kordian.md",
-    "lektury/Jan Kochanowski -  Treny.md"
+    "lektury/Juliusz Słowacki - Kordian.md"
   ]
 }

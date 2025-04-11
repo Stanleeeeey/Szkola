@@ -324,4 +324,4 @@ znanych Ci fragmentów Podróży z Herodotem Ryszarda Kapuścińskiego. W swojej
 odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza:** Podróże są doświadczeniem które człowieka edukuje. Podróże są wolnością. Zmieniają spojrzenie na świat. Podróżowanie jest tworzeniem opowieści
-**Odwołania:** Nauka angielskiego w podróżach z Herodotem, wychodzenie z własnej strefy komfortu, różnice kulturowe, warunki życia w Indiach. Wyrwanie się z PRL-u wspomnienie o tym byle za granice. Konteksty: Biały lotos, Solaris, 
+**Odwołania:** Nauka angielskiego w podróżach z Herodotem, wychodzenie z własnej strefy komfortu, różnice kulturowe, warunki życia w Indiach. Wyrwanie się z PRL-u wspomnienie o tym byle za granice. Konteksty: Biały lotos, Solaris, Ted lasso wyjazd do Amsterdamu relacja Roya i Jaimego

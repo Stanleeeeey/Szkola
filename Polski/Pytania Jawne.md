@@ -311,7 +311,7 @@ wybrany kontekst.
 
 ## Olga Tokarczuk, Profesor Andrews w Warszawie
 
-- [ ] Stan wojenny z perspektywy obcokrajowca. Omów zagadnienie na podstawie utworu
+- [x] Stan wojenny z perspektywy obcokrajowca. Omów zagadnienie na podstawie utworu
 Profesor Andrews w Warszawie Olgi Tokarczuk. W swojej odpowiedzi uwzględnij
 również wybrany kontekst.
 
@@ -319,6 +319,9 @@ również wybrany kontekst.
 **Odwołania:** 1984 relacje międzyludzkie. Fotografia stan wojenny + czas apokalipsy
 ## Ryszard Kapuściński, Podróże z Herodotem (fragmenty)
 
-- [ ] Czym dla człowieka może być podróżowanie? Omów zagadnienie na podstawie
+- [x] Czym dla człowieka może być podróżowanie? Omów zagadnienie na podstawie
 znanych Ci fragmentów Podróży z Herodotem Ryszarda Kapuścińskiego. W swojej
 odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza:** Podróże są doświadczeniem które człowieka edukuje. Podróże są wolnością. Zmieniają spojrzenie na świat. Podróżowanie jest tworzeniem opowieści
+**Odwołania:** Nauka angielskiego w podróżach z Herodotem, wychodzenie z własnej strefy komfortu, różnice kulturowe, warunki życia w Indiach. Wyrwanie się z PRL-u wspomnienie o tym byle za granice. Konteksty: Biały lotos, Solaris, 

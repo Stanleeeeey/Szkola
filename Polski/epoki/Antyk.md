@@ -15,7 +15,11 @@
  - uniwersalizuje
  - tłumaczy objaśnia, podpowiada interpretacje
 
-## Zasady teatru antycznego
+## Teatr
+
+Teatr wywodzi si z uroczystości religijnych na cześć Dionizosa. 
+
+###Zasady teatru antycznego
 - [[Decorum]]
 - [[Mimesis]]
 - [[Zasada trzech jedności]]

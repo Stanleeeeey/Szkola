@@ -38,3 +38,9 @@
 	- To człowiek wybiera swój los i musi pogodzić się z jego konsekwencjami.
 	- Postępowanie honorowe jest wychwalane podczas gdy żądza władzy i realizacja własnych ambicji prowadzi do upadku i potępienia.
 	- Władza doprowadziła Makbeta do sprzeniewierzenia swojego wcześniejszego dekalogu, jednak Roland pozostał wierny wobec kodeksu rycerskiego.
+
+## Różne postawy człowieka wobec własnych odkryć
+**Teza**: zależą od mentalności którą determinuje środowisko
+- Odkrycie Wokulskiego, że Łęcka nigdy go nie pokocha i ten związek jest tylko dla pieniędzy.
+- Raskolnikow odkrywa, że nie jest nadczłowiekiem - niczym się nie różni od zamordowanej
+- 
